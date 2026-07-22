@@ -1,0 +1,5 @@
+"method","n_networks","n_communities","n_geometric","pct_geometric"
+"infomap",40,53,32,60.4
+"leading_eigen",40,75,44,58.7
+"louvain",40,75,44,58.7
+"walktrap",39,60,34,56.7

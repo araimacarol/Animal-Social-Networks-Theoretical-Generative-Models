@@ -1,0 +1,17 @@
+"Class","Interaction_type","n_networks"
+"Aves","Social_projection_bipartite",25
+"Aves","Group_membership",6
+"Aves","Foraging",2
+"Aves","Physical_contact",2
+"Aves","Dominance",1
+"Insecta","Physical_contact",267
+"Insecta","Spatial_proximity",12
+"Mammalia","Social_projection_bipartite",152
+"Mammalia","Spatial_proximity",94
+"Mammalia","Grooming",35
+"Mammalia","Dominance",7
+"Mammalia","Group_membership",5
+"Mammalia","Physical_contact",3
+"Mammalia","Trophallaxis",1
+"Reptilia","Social_projection_bipartite",23
+"Reptilia","Spatial_proximity",1

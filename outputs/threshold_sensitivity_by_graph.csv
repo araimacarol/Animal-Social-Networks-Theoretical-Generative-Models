@@ -1,0 +1,699 @@
+"graph_name","weight_method","component_mode","baseline_class","n_thresholds_evaluated","n_distinct_predictions","classes_seen","prop_matching_baseline","stable","n_unclassifiable"
+"Badger_Autumn1.csv ","adjacency","full_network","Spatial",8,2,"Spatial, SW",0.125,FALSE,4
+"Badger_Autumn2.csv ","adjacency","full_network","Spatial",6,2,"Spatial, SW",0.166666666666667,FALSE,2
+"Badger_Autumn3.csv ","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"Badger_Autumn4.csv ","adjacency","full_network","Spatial",9,1,"Spatial",0.111111111111111,TRUE,8
+"Badger_Spring1.csv ","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"Badger_Spring2.csv ","adjacency","full_network","Spatial",7,2,"Spatial, SW",0.428571428571429,FALSE,2
+"Badger_Spring3.csv ","adjacency","full_network","Spatial",9,1,"Spatial",0.111111111111111,TRUE,8
+"Badger_Summer1.csv ","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"Badger_Summer2.csv ","adjacency","full_network","Spatial",10,1,"Spatial",0.2,TRUE,8
+"Badger_Summer3.csv ","adjacency","full_network","Spatial",9,1,"Spatial",0.111111111111111,TRUE,8
+"Badger_Summer4.csv ","adjacency","full_network","Spatial",7,2,"SF, Spatial",0.142857142857143,FALSE,5
+"Badger_Winter2.csv ","adjacency","full_network","Spatial",10,2,"Spatial, SW",0.3,FALSE,6
+"Badger_Winter3.csv ","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"Badger_Winter4.csv ","adjacency","full_network","Spatial",9,1,"Spatial",0.111111111111111,TRUE,8
+"Chimp_AprSRI_G_Matrix.csv ","adjacency","full_network","Spatial",3,2,"Spatial, SW",0.333333333333333,FALSE,0
+"Chimp_Apr_Prob5_MatrixNoNAs.csv ","adjacency","full_network","SF",10,1,"SF",0.1,TRUE,9
+"Chimp_Aug_Prob5_MatrixNoNAs.csv ","adjacency","full_network","SF",10,2,"SF, Spatial",0.1,FALSE,3
+"Chimp_Dec_Prob5_MatrixNoNAs.csv ","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"Chimp_FebSRI_G_Matrix.csv ","adjacency","full_network","Spatial",4,2,"Spatial, SW",0.25,FALSE,1
+"Chimp_Feb_Prob5_MatrixNoNAs.csv ","adjacency","full_network","Spatial",10,1,"Spatial",1,TRUE,0
+"Chimp_JanSRI_G_Matrix.csv ","adjacency","full_network","Spatial",7,2,"Spatial, SW",0.142857142857143,FALSE,5
+"Chimp_Jan_Prob5_MatrixNoNAs.csv ","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"Chimp_JulSRI_G_Matrix.csv ","adjacency","full_network","Spatial",7,1,"Spatial",0.285714285714286,TRUE,5
+"Chimp_Jul_Prob5_MatrixNoNAs.csv ","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"Chimp_Jun_Prob5_MatrixNoNAs.csv ","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.6,FALSE,0
+"Chimp_MarSRI_G_Matrix.csv ","adjacency","full_network","Spatial",6,2,"Spatial, SW",0.333333333333333,FALSE,3
+"Chimp_Mar_Prob5_MatrixNoNAs.csv ","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"Chimp_MaySRI_G_Matrix.csv ","adjacency","full_network","Spatial",6,2,"Spatial, SW",0.333333333333333,FALSE,3
+"Chimp_May_Prob5_MatrixNoNAs.csv ","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"Chimp__AugSRI_G_Matrix.csv ","adjacency","full_network","Spatial",3,2,"Spatial, SW",0.333333333333333,FALSE,0
+"Chimp__DecSRI_G_Matrix.csv ","adjacency","full_network","Spatial",7,2,"Spatial, SW",0.285714285714286,FALSE,4
+"Chimp__JunSRI_G_Matrix.csv ","adjacency","full_network","Spatial",7,1,"Spatial",0.714285714285714,TRUE,2
+"Domestic_Ddog_matrix1.csv ","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"Domestic_Ddog_matrix2.csv ","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"Giraffe_edgelist_matriz.csv ","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"aves-barn-swallow-contact-network","adjacency","full_network","SF",10,1,"SF",0.9,TRUE,1
+"insecta-ant-colony1","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony1-day01","adjacency","full_network","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony1-day02","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony1-day03","adjacency","full_network","Spatial",10,1,"Spatial",0.3,TRUE,7
+"insecta-ant-colony1-day04","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony1-day05","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony1-day06","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony1-day07","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony1-day08","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony1-day09","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.6,FALSE,3
+"insecta-ant-colony1-day10","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,2
+"insecta-ant-colony1-day11","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony1-day12","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony1-day13","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony1-day14","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony1-day15","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony1-day16","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony1-day17","adjacency","full_network","Spatial",10,1,"Spatial",0.8,TRUE,2
+"insecta-ant-colony1-day18","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony1-day19","adjacency","full_network","Spatial",10,1,"Spatial",0.9,TRUE,1
+"insecta-ant-colony1-day20","adjacency","full_network","Spatial",10,1,"Spatial",0.9,TRUE,1
+"insecta-ant-colony1-day21","adjacency","full_network","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony1-day22","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony1-day23","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony1-day24","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony1-day25","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony1-day26","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony1-day27","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony1-day28","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony1-day29","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony1-day30","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony1-day31","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony1-day32","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony1-day33","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.6,FALSE,3
+"insecta-ant-colony1-day34","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.2,FALSE,5
+"insecta-ant-colony1-day35","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.5,FALSE,4
+"insecta-ant-colony1-day36","adjacency","full_network","Spatial",10,1,"Spatial",0.2,TRUE,8
+"insecta-ant-colony1-day37","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,1
+"insecta-ant-colony1-day38","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.1,FALSE,7
+"insecta-ant-colony1-day39","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.2,FALSE,6
+"insecta-ant-colony1-day40","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony1-day41","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.2,FALSE,7
+"insecta-ant-colony2","adjacency","full_network","ER",6,3,"ER, Spatial, SW",0.333333333333333,FALSE,1
+"insecta-ant-colony2-day01","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.4,FALSE,4
+"insecta-ant-colony2-day02","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.2,FALSE,7
+"insecta-ant-colony2-day03","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.5,FALSE,2
+"insecta-ant-colony2-day04","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.6,FALSE,3
+"insecta-ant-colony2-day05","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.4,FALSE,3
+"insecta-ant-colony2-day06","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.4,FALSE,5
+"insecta-ant-colony2-day07","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,1
+"insecta-ant-colony2-day08","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,1
+"insecta-ant-colony2-day09","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.2,FALSE,6
+"insecta-ant-colony2-day10","adjacency","full_network","Spatial",10,1,"Spatial",0.3,TRUE,7
+"insecta-ant-colony2-day11","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"insecta-ant-colony2-day12","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony2-day13","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony2-day14","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony2-day15","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony2-day16","adjacency","full_network","Spatial",10,1,"Spatial",0.3,TRUE,7
+"insecta-ant-colony2-day17","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony2-day18","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony2-day19","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony2-day20","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony2-day21","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony2-day22","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony2-day23","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony2-day24","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony2-day25","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony2-day26","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony2-day27","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony2-day28","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony2-day29","adjacency","full_network","Spatial",10,1,"Spatial",0.3,TRUE,7
+"insecta-ant-colony2-day30","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony2-day31","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony2-day32","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"insecta-ant-colony2-day33","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.5,FALSE,1
+"insecta-ant-colony2-day34","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.1,FALSE,7
+"insecta-ant-colony2-day35","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"insecta-ant-colony2-day36","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"insecta-ant-colony2-day37","adjacency","full_network","Spatial",10,1,"Spatial",0.2,TRUE,8
+"insecta-ant-colony2-day38","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.3,FALSE,6
+"insecta-ant-colony2-day39","adjacency","full_network","Spatial",10,1,"Spatial",0.2,TRUE,8
+"insecta-ant-colony2-day40","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony2-day41","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"insecta-ant-colony3","adjacency","full_network","ER",6,2,"ER, Spatial",0.333333333333333,FALSE,0
+"insecta-ant-colony3-day01","adjacency","full_network","ER",10,3,"ER, SF, Spatial",0.1,FALSE,0
+"insecta-ant-colony3-day02","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony3-day03","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"insecta-ant-colony3-day04","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony3-day05","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony3-day06","adjacency","full_network","Spatial",10,1,"Spatial",0.3,TRUE,7
+"insecta-ant-colony3-day07","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day08","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"insecta-ant-colony3-day09","adjacency","full_network","Spatial",10,1,"Spatial",0.8,TRUE,2
+"insecta-ant-colony3-day10","adjacency","full_network","Spatial",10,1,"Spatial",0.9,TRUE,1
+"insecta-ant-colony3-day11","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.6,FALSE,3
+"insecta-ant-colony3-day12","adjacency","full_network","Spatial",10,1,"Spatial",0.3,TRUE,7
+"insecta-ant-colony3-day13","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,2
+"insecta-ant-colony3-day14","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day15","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony3-day16","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony3-day17","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony3-day18","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony3-day19","adjacency","full_network","Spatial",10,1,"Spatial",0.8,TRUE,2
+"insecta-ant-colony3-day20","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony3-day21","adjacency","full_network","Spatial",10,1,"Spatial",0.8,TRUE,2
+"insecta-ant-colony3-day22","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony3-day23","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony3-day24","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony3-day25","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony3-day26","adjacency","full_network","Spatial",10,1,"Spatial",0.2,TRUE,8
+"insecta-ant-colony3-day27","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony3-day28","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony3-day29","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony3-day30","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.6,FALSE,3
+"insecta-ant-colony3-day31","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,1
+"insecta-ant-colony3-day32","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,1
+"insecta-ant-colony3-day33","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,2
+"insecta-ant-colony3-day34","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day35","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony3-day36","adjacency","full_network","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day37","adjacency","full_network","Spatial",10,1,"Spatial",0.2,TRUE,8
+"insecta-ant-colony3-day38","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony3-day39","adjacency","full_network","Spatial",10,1,"Spatial",0.8,TRUE,2
+"insecta-ant-colony3-day40","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony3-day41","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony4","adjacency","full_network","ER",6,3,"ER, Spatial, SW",0.166666666666667,FALSE,1
+"insecta-ant-colony4-day01","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day02","adjacency","full_network","Spatial",10,1,"Spatial",0.9,TRUE,1
+"insecta-ant-colony4-day03","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony4-day04","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.1,FALSE,7
+"insecta-ant-colony4-day05","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.3,FALSE,5
+"insecta-ant-colony4-day06","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.2,FALSE,7
+"insecta-ant-colony4-day07","adjacency","full_network","Spatial",10,1,"Spatial",0.3,TRUE,7
+"insecta-ant-colony4-day08","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony4-day09","adjacency","full_network","Spatial",10,1,"Spatial",0.9,TRUE,1
+"insecta-ant-colony4-day10","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,2
+"insecta-ant-colony4-day11","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,2
+"insecta-ant-colony4-day12","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day13","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day14","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.6,FALSE,0
+"insecta-ant-colony4-day15","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony4-day16","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony4-day17","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day18","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony4-day19","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.6,FALSE,2
+"insecta-ant-colony4-day20","adjacency","full_network","ER",10,3,"ER, SF, Spatial",0.1,FALSE,0
+"insecta-ant-colony4-day21","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day22","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,1
+"insecta-ant-colony4-day23","adjacency","full_network","SF",10,2,"SF, Spatial",0.5,FALSE,1
+"insecta-ant-colony4-day24","adjacency","full_network","SF",10,2,"SF, Spatial",0.3,FALSE,1
+"insecta-ant-colony4-day25","adjacency","full_network","SF",10,2,"SF, Spatial",0.4,FALSE,0
+"insecta-ant-colony4-day26","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day27","adjacency","full_network","SF",10,2,"SF, Spatial",0.6,FALSE,0
+"insecta-ant-colony4-day28","adjacency","full_network","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony4-day29","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,2
+"insecta-ant-colony4-day30","adjacency","full_network","SF",10,2,"SF, Spatial",0.1,FALSE,0
+"insecta-ant-colony4-day31","adjacency","full_network","SF",10,2,"SF, Spatial",0.4,FALSE,0
+"insecta-ant-colony4-day32","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,1
+"insecta-ant-colony4-day33","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,1
+"insecta-ant-colony4-day34","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony4-day35","adjacency","full_network","SF",10,2,"SF, Spatial",0.3,FALSE,0
+"insecta-ant-colony4-day36","adjacency","full_network","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony4-day37","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,1
+"insecta-ant-colony4-day38","adjacency","full_network","Spatial",10,1,"Spatial",0.9,TRUE,1
+"insecta-ant-colony4-day39","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,1
+"insecta-ant-colony4-day40","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony4-day41","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony5","adjacency","full_network","ER",7,2,"ER, Spatial",0.428571428571429,FALSE,1
+"insecta-ant-colony5-day01","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day02","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,1
+"insecta-ant-colony5-day03","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"insecta-ant-colony5-day04","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.6,FALSE,2
+"insecta-ant-colony5-day05","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.6,FALSE,2
+"insecta-ant-colony5-day06","adjacency","full_network","Spatial",10,1,"Spatial",0.2,TRUE,8
+"insecta-ant-colony5-day07","adjacency","full_network","Spatial",10,1,"Spatial",0.3,TRUE,7
+"insecta-ant-colony5-day08","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.5,FALSE,3
+"insecta-ant-colony5-day09","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.6,FALSE,2
+"insecta-ant-colony5-day10","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony5-day11","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony5-day12","adjacency","full_network","Spatial",10,1,"Spatial",0.2,TRUE,8
+"insecta-ant-colony5-day13","adjacency","full_network","Spatial",10,1,"Spatial",0.3,TRUE,7
+"insecta-ant-colony5-day14","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony5-day15","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony5-day16","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony5-day17","adjacency","full_network","Spatial",10,1,"Spatial",0.3,TRUE,7
+"insecta-ant-colony5-day18","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony5-day19","adjacency","full_network","Spatial",10,1,"Spatial",0.8,TRUE,2
+"insecta-ant-colony5-day20","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony5-day21","adjacency","full_network","Spatial",10,1,"Spatial",0.8,TRUE,2
+"insecta-ant-colony5-day22","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,1
+"insecta-ant-colony5-day23","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day24","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day25","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,2
+"insecta-ant-colony5-day26","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.2,FALSE,7
+"insecta-ant-colony5-day27","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.2,FALSE,7
+"insecta-ant-colony5-day28","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.6,FALSE,2
+"insecta-ant-colony5-day29","adjacency","full_network","Spatial",10,1,"Spatial",0.8,TRUE,2
+"insecta-ant-colony5-day30","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.2,FALSE,5
+"insecta-ant-colony5-day31","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.1,FALSE,6
+"insecta-ant-colony5-day32","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.5,FALSE,0
+"insecta-ant-colony5-day33","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.1,FALSE,8
+"insecta-ant-colony5-day34","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.2,FALSE,6
+"insecta-ant-colony5-day35","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.4,FALSE,1
+"insecta-ant-colony5-day36","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.6,FALSE,2
+"insecta-ant-colony5-day37","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.5,FALSE,4
+"insecta-ant-colony5-day38","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.5,FALSE,1
+"insecta-ant-colony5-day39","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.1,FALSE,8
+"insecta-ant-colony5-day40","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.2,FALSE,3
+"insecta-ant-colony5-day41","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.1,FALSE,6
+"insecta-ant-colony6","adjacency","full_network","ER",8,2,"ER, Spatial",0.375,FALSE,1
+"insecta-ant-colony6-day01","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day02","adjacency","full_network","Spatial",10,1,"Spatial",0.8,TRUE,2
+"insecta-ant-colony6-day03","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony6-day04","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,1
+"insecta-ant-colony6-day05","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.1,FALSE,8
+"insecta-ant-colony6-day06","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.1,FALSE,8
+"insecta-ant-colony6-day07","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.3,FALSE,5
+"insecta-ant-colony6-day08","adjacency","full_network","Spatial",10,1,"Spatial",0.2,TRUE,8
+"insecta-ant-colony6-day09","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.5,FALSE,3
+"insecta-ant-colony6-day10","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony6-day11","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony6-day12","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony6-day13","adjacency","full_network","Spatial",10,1,"Spatial",0.2,TRUE,8
+"insecta-ant-colony6-day14","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,1
+"insecta-ant-colony6-day15","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony6-day16","adjacency","full_network","Spatial",10,1,"Spatial",0.6,TRUE,4
+"insecta-ant-colony6-day17","adjacency","full_network","Spatial",10,1,"Spatial",0.7,TRUE,3
+"insecta-ant-colony6-day18","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony6-day19","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.7,FALSE,2
+"insecta-ant-colony6-day20","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony6-day21","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony6-day22","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,1
+"insecta-ant-colony6-day23","adjacency","full_network","Spatial",10,1,"Spatial",0.3,TRUE,7
+"insecta-ant-colony6-day24","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony6-day25","adjacency","full_network","Spatial",10,1,"Spatial",0.2,TRUE,8
+"insecta-ant-colony6-day26","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.4,FALSE,4
+"insecta-ant-colony6-day27","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.5,FALSE,4
+"insecta-ant-colony6-day28","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day29","adjacency","full_network","Spatial",10,2,"SF, Spatial",0.2,FALSE,7
+"insecta-ant-colony6-day30","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-colony6-day31","adjacency","full_network","Spatial",10,1,"Spatial",0.5,TRUE,5
+"insecta-ant-colony6-day32","adjacency","full_network","Spatial",10,1,"Spatial",0.2,TRUE,8
+"insecta-ant-colony6-day33","adjacency","full_network","Spatial",10,1,"Spatial",0.3,TRUE,7
+"insecta-ant-colony6-day34","adjacency","full_network","Spatial",10,1,"Spatial",0.2,TRUE,8
+"insecta-ant-colony6-day35","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"insecta-ant-colony6-day36","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"insecta-ant-colony6-day37","adjacency","full_network","Spatial",10,1,"Spatial",0.2,TRUE,8
+"insecta-ant-colony6-day38","adjacency","full_network","Spatial",10,1,"Spatial",0.3,TRUE,7
+"insecta-ant-colony6-day39","adjacency","full_network","Spatial",10,1,"Spatial",0.4,TRUE,6
+"insecta-ant-trophallaxis-colony1","adjacency","full_network","SF",10,1,"SF",0.9,TRUE,1
+"insecta-ant-trophallaxis-colony1-day1","adjacency","full_network","SF",4,2,"sbm, SF",0.25,FALSE,2
+"insecta-ant-trophallaxis-colony1-day2","adjacency","full_network","ER",2,1,"ER",0.5,TRUE,1
+"insecta-ant-trophallaxis-colony1-day3","adjacency","full_network","SF",2,1,"SF",0.5,TRUE,1
+"insecta-ant-trophallaxis-colony1-day4","adjacency","full_network","ER",3,3,"ER, sbm, SF",0.333333333333333,FALSE,0
+"insecta-ant-trophallaxis-colony1-day5","adjacency","full_network","SF",2,1,"SF",0.5,TRUE,1
+"insecta-ant-trophallaxis-colony1-day7","adjacency","full_network","ER",4,1,"ER",0.25,TRUE,3
+"insecta-ant-trophallaxis-colony1-day8","adjacency","full_network","ER",5,2,"ER, sbm",0.2,FALSE,3
+"insecta-ant-trophallaxis-colony2","adjacency","full_network","SF",10,1,"SF",0.9,TRUE,1
+"insecta-ant-trophallaxis-colony2-day1","adjacency","full_network","SF",5,1,"SF",0.2,TRUE,4
+"insecta-ant-trophallaxis-colony2-day2","adjacency","full_network","ER",2,1,"ER",0.5,TRUE,1
+"insecta-ant-trophallaxis-colony2-day3","adjacency","full_network","ER",3,2,"ER, SF",0.333333333333333,FALSE,0
+"insecta-ant-trophallaxis-colony2-day4","adjacency","full_network","SF",4,1,"SF",1,TRUE,0
+"insecta-ant-trophallaxis-colony2-day5","adjacency","full_network","ER",1,1,"ER",1,TRUE,0
+"insecta-ant-trophallaxis-colony2-day6","adjacency","full_network","SF",2,1,"SF",0.5,TRUE,1
+"insecta-ant-trophallaxis-colony2-day7","adjacency","full_network","SF",5,2,"sbm, SF",0.2,FALSE,3
+"insecta-ant-trophallaxis-colony2-day8","adjacency","full_network","SF",6,2,"SF, SW",0.166666666666667,FALSE,4
+"insecta-beetle-group-c1-period-1","adjacency","full_network","sbm",10,2,"sbm, SF",0.1,FALSE,0
+"insecta-beetle-group-c1-period-2","adjacency","full_network","SF",10,3,"sbm, SF, Spatial",0.7,FALSE,1
+"insecta-beetle-group-c2-period-1","adjacency","full_network","SF",10,1,"SF",0.7,TRUE,3
+"insecta-beetle-group-c2-period-2","adjacency","full_network","SF",10,2,"sbm, SF",0.7,FALSE,2
+"insecta-beetle-group-c3-period-1","adjacency","full_network","ER",10,3,"ER, sbm, SF",0.2,FALSE,2
+"insecta-beetle-group-c3-period-2","adjacency","full_network","SF",10,3,"ER, SF, Spatial",0.3,FALSE,2
+"insecta-beetle-group-c4-period-1","adjacency","full_network","sbm",10,3,"ER, sbm, Spatial",0.2,FALSE,6
+"insecta-beetle-group-c4-period-2","adjacency","full_network","ER",10,3,"ER, SF, Spatial",0.1,FALSE,1
+"insecta-beetle-group-t1-period-1","adjacency","full_network","SF",10,1,"SF",1,TRUE,0
+"insecta-beetle-group-t2-period-1","adjacency","full_network","SF",10,1,"SF",1,TRUE,0
+"insecta-beetle-group-t3-period-1","adjacency","full_network","sbm",10,2,"sbm, SF",0.2,FALSE,2
+"insecta-beetle-group-t4-period-1","adjacency","full_network","SF",10,1,"SF",0.9,TRUE,1
+"mammalia-baboon-association-group03","adjacency","full_network","SF",2,1,"SF",0.5,TRUE,1
+"mammalia-baboon-association-group07","adjacency","full_network","ER",6,1,"ER",0.166666666666667,TRUE,5
+"mammalia-baboon-association-group08","adjacency","full_network","SF",6,2,"SF, Spatial",0.5,FALSE,2
+"mammalia-baboon-association-group09","adjacency","full_network","SF",4,1,"SF",0.25,TRUE,3
+"mammalia-baboon-association-group10","adjacency","full_network","SF",10,3,"sbm, SF, Spatial",0.6,FALSE,1
+"mammalia-baboon-association-group11","adjacency","full_network","SF",8,1,"SF",0.125,TRUE,7
+"mammalia-baboon-association-group19","adjacency","full_network","SF",2,1,"SF",0.5,TRUE,1
+"mammalia-baboon-association-group20","adjacency","full_network","ER",9,4,"ER, sbm, SF, Spatial",0.111111111111111,FALSE,1
+"mammalia-baboon-association-group23","adjacency","full_network","SF",4,1,"SF",0.25,TRUE,3
+"mammalia-baboon-association-group27","adjacency","full_network","ER",6,1,"ER",0.166666666666667,TRUE,5
+"mammalia-baboon-association-group28","adjacency","full_network","ER",3,1,"ER",0.333333333333333,TRUE,2
+"mammalia-baboon-association-group29","adjacency","full_network","ER",4,2,"ER, SF",0.25,FALSE,1
+"mammalia-baboon-grooming-group03","adjacency","full_network","SF",6,1,"SF",0.166666666666667,TRUE,5
+"mammalia-baboon-grooming-group07","adjacency","full_network","ER",7,3,"ER, sbm, SF",0.285714285714286,FALSE,1
+"mammalia-baboon-grooming-group08","adjacency","full_network","SF",3,1,"SF",0.333333333333333,TRUE,2
+"mammalia-baboon-grooming-group09","adjacency","full_network","ER",1,1,"ER",1,TRUE,0
+"mammalia-baboon-grooming-group10","adjacency","full_network","sbm",8,2,"sbm, Spatial",0.125,FALSE,6
+"mammalia-baboon-grooming-group11","adjacency","full_network","ER",3,1,"ER",0.333333333333333,TRUE,2
+"mammalia-baboon-grooming-group19","adjacency","full_network","sbm",6,2,"sbm, SF",0.166666666666667,FALSE,3
+"mammalia-baboon-grooming-group20","adjacency","full_network","sbm",7,2,"sbm, SF",0.142857142857143,FALSE,5
+"mammalia-baboon-grooming-group23","adjacency","full_network","SF",4,1,"SF",0.5,TRUE,2
+"mammalia-baboon-grooming-group25","adjacency","full_network","ER",1,1,"ER",1,TRUE,0
+"mammalia-baboon-grooming-group26","adjacency","full_network","SF",3,1,"SF",0.333333333333333,TRUE,2
+"mammalia-baboon-grooming-group27","adjacency","full_network","SF",7,1,"SF",0.857142857142857,TRUE,1
+"mammalia-baboon-grooming-group28","adjacency","full_network","ER",4,2,"ER, Spatial",0.25,FALSE,2
+"mammalia-baboon-grooming-group29","adjacency","full_network","sbm",8,2,"sbm, Spatial",0.5,FALSE,0
+"mammalia-dolphin-florida-forage","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"mammalia-dolphin-florida-overall","adjacency","full_network","SF",10,1,"SF",0.1,TRUE,9
+"mammalia-dolphin-florida-social","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"mammalia-dolphin-floridatravel","adjacency","full_network","Spatial",10,1,"Spatial",0.1,TRUE,9
+"mammalia-dolphin-social","adjacency","full_network","SW",8,3,"SF, Spatial, SW",0.125,FALSE,5
+"mammalia-hyena-networka","adjacency","full_network","Spatial",10,1,"Spatial",0.9,TRUE,1
+"mammalia-hyena-networkb","adjacency","full_network","Spatial",9,1,"Spatial",0.777777777777778,TRUE,2
+"mammalia-hyena-networkc","adjacency","full_network","Spatial",10,1,"Spatial",0.8,TRUE,2
+"Badger_Autumn1.csv ","adjacency","largest_component","Spatial",8,4,"sbm, SF, Spatial, SW",0.25,FALSE,0
+"Badger_Autumn2.csv ","adjacency","largest_component","Spatial",6,2,"Spatial, SW",0.166666666666667,FALSE,0
+"Badger_Autumn3.csv ","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"Badger_Autumn4.csv ","adjacency","largest_component","Spatial",9,2,"Spatial, SW",0.444444444444444,FALSE,0
+"Badger_Spring1.csv ","adjacency","largest_component","Spatial",10,2,"Spatial, SW",0.7,FALSE,1
+"Badger_Spring2.csv ","adjacency","largest_component","Spatial",7,2,"Spatial, SW",0.428571428571429,FALSE,0
+"Badger_Spring3.csv ","adjacency","largest_component","Spatial",9,2,"SF, Spatial",0.111111111111111,FALSE,2
+"Badger_Summer1.csv ","adjacency","largest_component","Spatial",10,3,"SF, Spatial, SW",0.2,FALSE,0
+"Badger_Summer2.csv ","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.4,FALSE,0
+"Badger_Summer3.csv ","adjacency","largest_component","Spatial",9,3,"SF, Spatial, SW",0.777777777777778,FALSE,0
+"Badger_Summer4.csv ","adjacency","largest_component","Spatial",7,3,"SF, Spatial, SW",0.285714285714286,FALSE,0
+"Badger_Winter2.csv ","adjacency","largest_component","Spatial",10,3,"SF, Spatial, SW",0.5,FALSE,0
+"Badger_Winter3.csv ","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"Badger_Winter4.csv ","adjacency","largest_component","Spatial",9,3,"sbm, SF, Spatial",0.777777777777778,FALSE,0
+"Chimp_AprSRI_G_Matrix.csv ","adjacency","largest_component","Spatial",3,2,"Spatial, SW",0.333333333333333,FALSE,0
+"Chimp_Apr_Prob5_MatrixNoNAs.csv ","adjacency","largest_component","SF",10,2,"SF, Spatial",0.4,FALSE,0
+"Chimp_Aug_Prob5_MatrixNoNAs.csv ","adjacency","largest_component","SF",10,2,"SF, Spatial",0.3,FALSE,0
+"Chimp_Dec_Prob5_MatrixNoNAs.csv ","adjacency","largest_component","Spatial",10,1,"Spatial",0.9,TRUE,1
+"Chimp_FebSRI_G_Matrix.csv ","adjacency","largest_component","Spatial",4,2,"Spatial, SW",0.25,FALSE,0
+"Chimp_Feb_Prob5_MatrixNoNAs.csv ","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"Chimp_JanSRI_G_Matrix.csv ","adjacency","largest_component","Spatial",7,2,"Spatial, SW",0.571428571428571,FALSE,0
+"Chimp_Jan_Prob5_MatrixNoNAs.csv ","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"Chimp_JulSRI_G_Matrix.csv ","adjacency","largest_component","Spatial",7,3,"sbm, Spatial, SW",0.571428571428571,FALSE,0
+"Chimp_Jul_Prob5_MatrixNoNAs.csv ","adjacency","largest_component","Spatial",10,3,"sbm, SF, Spatial",0.8,FALSE,0
+"Chimp_Jun_Prob5_MatrixNoNAs.csv ","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.6,FALSE,0
+"Chimp_MarSRI_G_Matrix.csv ","adjacency","largest_component","Spatial",6,2,"Spatial, SW",0.5,FALSE,0
+"Chimp_Mar_Prob5_MatrixNoNAs.csv ","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"Chimp_MaySRI_G_Matrix.csv ","adjacency","largest_component","Spatial",6,2,"Spatial, SW",0.333333333333333,FALSE,0
+"Chimp_May_Prob5_MatrixNoNAs.csv ","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"Chimp__AugSRI_G_Matrix.csv ","adjacency","largest_component","Spatial",3,2,"Spatial, SW",0.333333333333333,FALSE,0
+"Chimp__DecSRI_G_Matrix.csv ","adjacency","largest_component","Spatial",7,2,"Spatial, SW",0.285714285714286,FALSE,0
+"Chimp__JunSRI_G_Matrix.csv ","adjacency","largest_component","Spatial",7,2,"Spatial, SW",0.857142857142857,FALSE,0
+"Domestic_Ddog_matrix1.csv ","adjacency","largest_component","Spatial",10,3,"sbm, SF, Spatial",0.8,FALSE,0
+"Domestic_Ddog_matrix2.csv ","adjacency","largest_component","Spatial",10,4,"ER, sbm, SF, Spatial",0.3,FALSE,0
+"Giraffe_edgelist_matriz.csv ","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"aves-barn-swallow-contact-network","adjacency","largest_component","SF",10,1,"SF",0.9,TRUE,1
+"insecta-ant-colony1","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony1-day01","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony1-day02","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony1-day03","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day04","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day05","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony1-day06","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day07","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day08","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day09","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day10","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day11","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony1-day12","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day13","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony1-day14","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day15","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day16","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day17","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day18","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day19","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day20","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony1-day21","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony1-day22","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony1-day23","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day24","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony1-day25","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day26","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony1-day27","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony1-day28","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day29","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony1-day30","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day31","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day32","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony1-day33","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day34","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony1-day35","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony1-day36","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony1-day37","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony1-day38","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony1-day39","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony1-day40","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony1-day41","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony2","adjacency","largest_component","ER",6,3,"ER, Spatial, SW",0.333333333333333,FALSE,0
+"insecta-ant-colony2-day01","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day02","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day03","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony2-day04","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day05","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony2-day06","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day07","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day08","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony2-day09","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day10","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony2-day11","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony2-day12","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony2-day13","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day14","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony2-day15","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony2-day16","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day17","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day18","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony2-day19","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day20","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day21","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day22","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day23","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony2-day24","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony2-day25","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day26","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day27","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony2-day28","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day29","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day30","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony2-day31","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony2-day32","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.5,FALSE,0
+"insecta-ant-colony2-day33","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.5,FALSE,0
+"insecta-ant-colony2-day34","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony2-day35","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony2-day36","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.2,FALSE,0
+"insecta-ant-colony2-day37","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.6,FALSE,0
+"insecta-ant-colony2-day38","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony2-day39","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.6,FALSE,0
+"insecta-ant-colony2-day40","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony2-day41","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony3","adjacency","largest_component","ER",6,2,"ER, Spatial",0.333333333333333,FALSE,0
+"insecta-ant-colony3-day01","adjacency","largest_component","ER",10,3,"ER, SF, Spatial",0.1,FALSE,0
+"insecta-ant-colony3-day02","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony3-day03","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony3-day04","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day05","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day06","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day07","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day08","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day09","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day10","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day11","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day12","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day13","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony3-day14","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day15","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day16","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day17","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day18","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day19","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day20","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day21","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day22","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day23","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day24","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day25","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day26","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day27","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day28","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day29","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day30","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day31","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day32","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day33","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day34","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day35","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day36","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day37","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day38","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day39","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony3-day40","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony3-day41","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony4","adjacency","largest_component","ER",6,3,"ER, Spatial, SW",0.166666666666667,FALSE,0
+"insecta-ant-colony4-day01","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day02","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony4-day03","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony4-day04","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day05","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony4-day06","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony4-day07","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony4-day08","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony4-day09","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony4-day10","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony4-day11","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony4-day12","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day13","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day14","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.6,FALSE,0
+"insecta-ant-colony4-day15","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony4-day16","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony4-day17","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day18","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony4-day19","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.6,FALSE,0
+"insecta-ant-colony4-day20","adjacency","largest_component","ER",10,3,"ER, SF, Spatial",0.1,FALSE,0
+"insecta-ant-colony4-day21","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day22","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day23","adjacency","largest_component","SF",10,2,"SF, Spatial",0.6,FALSE,0
+"insecta-ant-colony4-day24","adjacency","largest_component","SF",10,2,"SF, Spatial",0.3,FALSE,0
+"insecta-ant-colony4-day25","adjacency","largest_component","SF",10,2,"SF, Spatial",0.4,FALSE,0
+"insecta-ant-colony4-day26","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day27","adjacency","largest_component","SF",10,2,"SF, Spatial",0.6,FALSE,0
+"insecta-ant-colony4-day28","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony4-day29","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony4-day30","adjacency","largest_component","SF",10,2,"SF, Spatial",0.1,FALSE,0
+"insecta-ant-colony4-day31","adjacency","largest_component","SF",10,2,"SF, Spatial",0.4,FALSE,0
+"insecta-ant-colony4-day32","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony4-day33","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony4-day34","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony4-day35","adjacency","largest_component","SF",10,2,"SF, Spatial",0.3,FALSE,0
+"insecta-ant-colony4-day36","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony4-day37","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony4-day38","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony4-day39","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony4-day40","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony4-day41","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony5","adjacency","largest_component","ER",7,2,"ER, Spatial",0.428571428571429,FALSE,0
+"insecta-ant-colony5-day01","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day02","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day03","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day04","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony5-day05","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony5-day06","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day07","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day08","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony5-day09","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day10","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony5-day11","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony5-day12","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day13","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony5-day14","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony5-day15","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day16","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony5-day17","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony5-day18","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony5-day19","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony5-day20","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony5-day21","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony5-day22","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day23","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day24","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day25","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony5-day26","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day27","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony5-day28","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day29","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day30","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony5-day31","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony5-day32","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.5,FALSE,0
+"insecta-ant-colony5-day33","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.5,FALSE,0
+"insecta-ant-colony5-day34","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day35","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.5,FALSE,0
+"insecta-ant-colony5-day36","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day37","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony5-day38","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.5,FALSE,0
+"insecta-ant-colony5-day39","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.6,FALSE,0
+"insecta-ant-colony5-day40","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.5,FALSE,0
+"insecta-ant-colony5-day41","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.6,FALSE,0
+"insecta-ant-colony6","adjacency","largest_component","ER",8,2,"ER, Spatial",0.375,FALSE,0
+"insecta-ant-colony6-day01","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day02","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day03","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day04","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day05","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day06","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day07","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day08","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day09","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day10","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony6-day11","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony6-day12","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day13","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day14","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day15","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day16","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day17","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"insecta-ant-colony6-day18","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day19","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day20","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day21","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day22","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day23","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day24","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day25","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day26","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day27","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day28","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day29","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day30","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day31","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day32","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day33","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day34","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.7,FALSE,0
+"insecta-ant-colony6-day35","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.6,FALSE,0
+"insecta-ant-colony6-day36","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day37","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"insecta-ant-colony6-day38","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-colony6-day39","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.8,FALSE,0
+"insecta-ant-trophallaxis-colony1","adjacency","largest_component","SF",10,1,"SF",1,TRUE,0
+"insecta-ant-trophallaxis-colony1-day1","adjacency","largest_component","SF",4,2,"sbm, SF",0.25,FALSE,2
+"insecta-ant-trophallaxis-colony1-day2","adjacency","largest_component","ER",2,1,"ER",0.5,TRUE,1
+"insecta-ant-trophallaxis-colony1-day3","adjacency","largest_component","SF",2,1,"SF",0.5,TRUE,1
+"insecta-ant-trophallaxis-colony1-day4","adjacency","largest_component","ER",3,3,"ER, sbm, SF",0.333333333333333,FALSE,0
+"insecta-ant-trophallaxis-colony1-day5","adjacency","largest_component","SF",2,1,"SF",0.5,TRUE,1
+"insecta-ant-trophallaxis-colony1-day7","adjacency","largest_component","ER",4,2,"ER, SF",0.5,FALSE,1
+"insecta-ant-trophallaxis-colony1-day8","adjacency","largest_component","ER",5,4,"ER, sbm, SF, SW",0.2,FALSE,1
+"insecta-ant-trophallaxis-colony2","adjacency","largest_component","SF",10,1,"SF",1,TRUE,0
+"insecta-ant-trophallaxis-colony2-day1","adjacency","largest_component","SF",5,2,"ER, SF",0.6,FALSE,1
+"insecta-ant-trophallaxis-colony2-day2","adjacency","largest_component","ER",2,1,"ER",0.5,TRUE,1
+"insecta-ant-trophallaxis-colony2-day3","adjacency","largest_component","ER",3,2,"ER, SF",0.333333333333333,FALSE,0
+"insecta-ant-trophallaxis-colony2-day4","adjacency","largest_component","SF",4,1,"SF",1,TRUE,0
+"insecta-ant-trophallaxis-colony2-day5","adjacency","largest_component","ER",1,1,"ER",1,TRUE,0
+"insecta-ant-trophallaxis-colony2-day6","adjacency","largest_component","SF",2,1,"SF",0.5,TRUE,1
+"insecta-ant-trophallaxis-colony2-day7","adjacency","largest_component","SF",5,2,"sbm, SF",0.2,FALSE,1
+"insecta-ant-trophallaxis-colony2-day8","adjacency","largest_component","SF",6,2,"SF, SW",0.666666666666667,FALSE,1
+"insecta-beetle-group-c1-period-1","adjacency","largest_component","sbm",10,2,"sbm, SF",0.1,FALSE,0
+"insecta-beetle-group-c1-period-2","adjacency","largest_component","SF",10,3,"sbm, SF, Spatial",0.8,FALSE,0
+"insecta-beetle-group-c2-period-1","adjacency","largest_component","SF",10,1,"SF",1,TRUE,0
+"insecta-beetle-group-c2-period-2","adjacency","largest_component","SF",10,2,"sbm, SF",0.9,FALSE,0
+"insecta-beetle-group-c3-period-1","adjacency","largest_component","ER",10,3,"ER, sbm, SF",0.2,FALSE,0
+"insecta-beetle-group-c3-period-2","adjacency","largest_component","SF",10,3,"ER, SF, Spatial",0.4,FALSE,0
+"insecta-beetle-group-c4-period-1","adjacency","largest_component","sbm",10,4,"ER, sbm, SF, Spatial",0.3,FALSE,0
+"insecta-beetle-group-c4-period-2","adjacency","largest_component","ER",10,3,"ER, SF, Spatial",0.2,FALSE,0
+"insecta-beetle-group-t1-period-1","adjacency","largest_component","SF",10,1,"SF",1,TRUE,0
+"insecta-beetle-group-t2-period-1","adjacency","largest_component","SF",10,1,"SF",1,TRUE,0
+"insecta-beetle-group-t3-period-1","adjacency","largest_component","sbm",10,2,"sbm, SF",0.2,FALSE,0
+"insecta-beetle-group-t4-period-1","adjacency","largest_component","SF",10,1,"SF",1,TRUE,0
+"mammalia-baboon-association-group03","adjacency","largest_component","SF",2,1,"SF",0.5,TRUE,1
+"mammalia-baboon-association-group07","adjacency","largest_component","ER",6,2,"ER, SF",0.166666666666667,FALSE,1
+"mammalia-baboon-association-group08","adjacency","largest_component","SF",6,2,"SF, Spatial",0.833333333333333,FALSE,0
+"mammalia-baboon-association-group09","adjacency","largest_component","SF",4,1,"SF",0.25,TRUE,3
+"mammalia-baboon-association-group10","adjacency","largest_component","SF",10,3,"sbm, SF, Spatial",0.6,FALSE,1
+"mammalia-baboon-association-group11","adjacency","largest_component","SF",8,2,"ER, SF",0.75,FALSE,1
+"mammalia-baboon-association-group19","adjacency","largest_component","SF",2,1,"SF",0.5,TRUE,1
+"mammalia-baboon-association-group20","adjacency","largest_component","ER",9,4,"ER, sbm, SF, Spatial",0.111111111111111,FALSE,1
+"mammalia-baboon-association-group23","adjacency","largest_component","SF",4,1,"SF",0.5,TRUE,2
+"mammalia-baboon-association-group27","adjacency","largest_component","ER",6,2,"ER, SF",0.166666666666667,FALSE,1
+"mammalia-baboon-association-group28","adjacency","largest_component","ER",3,1,"ER",0.333333333333333,TRUE,2
+"mammalia-baboon-association-group29","adjacency","largest_component","ER",4,2,"ER, SF",0.25,FALSE,1
+"mammalia-baboon-grooming-group03","adjacency","largest_component","SF",6,2,"sbm, SF",0.666666666666667,FALSE,1
+"mammalia-baboon-grooming-group07","adjacency","largest_component","ER",7,3,"ER, sbm, SF",0.285714285714286,FALSE,0
+"mammalia-baboon-grooming-group08","adjacency","largest_component","SF",3,1,"SF",0.333333333333333,TRUE,2
+"mammalia-baboon-grooming-group09","adjacency","largest_component","ER",1,1,"ER",1,TRUE,0
+"mammalia-baboon-grooming-group10","adjacency","largest_component","sbm",8,3,"sbm, SF, Spatial",0.125,FALSE,0
+"mammalia-baboon-grooming-group11","adjacency","largest_component","ER",3,1,"ER",0.333333333333333,TRUE,2
+"mammalia-baboon-grooming-group19","adjacency","largest_component","sbm",6,2,"sbm, SF",0.166666666666667,FALSE,3
+"mammalia-baboon-grooming-group20","adjacency","largest_component","sbm",7,2,"sbm, SF",0.142857142857143,FALSE,1
+"mammalia-baboon-grooming-group23","adjacency","largest_component","SF",4,1,"SF",0.5,TRUE,2
+"mammalia-baboon-grooming-group25","adjacency","largest_component","ER",1,1,"ER",1,TRUE,0
+"mammalia-baboon-grooming-group26","adjacency","largest_component","SF",3,1,"SF",0.333333333333333,TRUE,2
+"mammalia-baboon-grooming-group27","adjacency","largest_component","SF",7,2,"SF, Spatial",0.857142857142857,FALSE,0
+"mammalia-baboon-grooming-group28","adjacency","largest_component","ER",4,2,"ER, Spatial",0.25,FALSE,2
+"mammalia-baboon-grooming-group29","adjacency","largest_component","sbm",8,2,"sbm, Spatial",0.5,FALSE,0
+"mammalia-dolphin-florida-forage","adjacency","largest_component","Spatial",10,2,"SF, Spatial",0.9,FALSE,0
+"mammalia-dolphin-florida-overall","adjacency","largest_component","SF",10,3,"ER, SF, Spatial",0.1,FALSE,0
+"mammalia-dolphin-florida-social","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"mammalia-dolphin-floridatravel","adjacency","largest_component","Spatial",10,2,"Spatial, SW",0.9,FALSE,0
+"mammalia-dolphin-social","adjacency","largest_component","SW",8,3,"SF, Spatial, SW",0.125,FALSE,0
+"mammalia-hyena-networka","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
+"mammalia-hyena-networkb","adjacency","largest_component","Spatial",9,2,"Spatial, SW",0.888888888888889,FALSE,0
+"mammalia-hyena-networkc","adjacency","largest_component","Spatial",10,1,"Spatial",1,TRUE,0
