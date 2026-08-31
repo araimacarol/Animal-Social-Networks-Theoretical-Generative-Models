@@ -1,0 +1,28 @@
+# R session / project cruft
+.Rhistory
+.RData
+.Rdata
+.Ruserdata
+.Rapp.history
+.Rproj.user/
+*.Rproj.user
+
+# renv (lockfile IS tracked; the library is not)
+renv/library/
+renv/staging/
+renv/local/
+renv/sandbox/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scratch
+*.log
+*.tmp
+*~
+
+# Generated artefacts — recreated by run_all.R, not tracked.
+# The manuscript builds its own figures/tables; outputs/*.csv IS tracked.
+figures/
+tables/

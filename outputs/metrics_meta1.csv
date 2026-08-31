@@ -1,0 +1,9 @@
+"Metric_Group","Metric_Name","Model_Score","Baseline_Score"
+"Discrete Labels","Overall Accuracy",0.7016,0.6073
+"Discrete Labels","Cohen's Kappa",0.4587,0
+"Macro Averages","Macro-Precision",0.5208,0.1215
+"Macro Averages","Macro-Recall",0.3705,0.2
+"Macro Averages","Macro-F1 Score",0.3675,0.1511
+"Weighted Averages","Weighted-Precision",0.7208,0.3688
+"Weighted Averages","Weighted-Recall",0.7016,0.6073
+"Weighted Averages","Weighted-F1 Score",0.6861,0.459

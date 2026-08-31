@@ -1,0 +1,16 @@
+"Class","Data_collection","n_networks"
+"Aves","mark_recapture",17
+"Aves","RFID",8
+"Aves","survey_scan",8
+"Aves","logger",2
+"Aves","direct_observation",1
+"Insecta","video",267
+"Insecta","survey_scan",12
+"Mammalia","mark_recapture",151
+"Mammalia","focal_sampling",82
+"Mammalia","logger",28
+"Mammalia","survey_scan",18
+"Mammalia","RFID",17
+"Mammalia","video",1
+"Reptilia","RFID",23
+"Reptilia","logger",1
