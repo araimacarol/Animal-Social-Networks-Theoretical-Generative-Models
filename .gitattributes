@@ -1,7 +1,0 @@
-# Normalise line endings
-* text=auto
-
-# Data/model payloads: never line-ending-converted
-*.rds   binary
-*.json  binary
-*.edges binary
