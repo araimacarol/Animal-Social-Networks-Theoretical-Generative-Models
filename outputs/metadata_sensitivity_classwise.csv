@@ -1,0 +1,34 @@
+"Config","class","precision","recall","f1","support"
+"Baseline (all taxa)","ER",0.25,0.222222222222222,0.235294117647059,9
+"Baseline (all taxa)","sbm",0,0,0,7
+"Baseline (all taxa)","SF",0.47887323943662,0.693877551020408,0.566666666666667,49
+"Baseline (all taxa)","Spatial",0.882882882882883,0.844827586206897,0.863436123348018,116
+"Baseline (all taxa)","SW",1,0.1,0.181818181818182,10
+"Upsampled (all taxa)","ER",0.4,0.666666666666667,0.5,9
+"Upsampled (all taxa)","sbm",0.153846153846154,0.285714285714286,0.2,7
+"Upsampled (all taxa)","SF",0.384615384615385,0.204081632653061,0.266666666666667,49
+"Upsampled (all taxa)","Spatial",0.927835051546392,0.775862068965517,0.845070422535211,116
+"Upsampled (all taxa)","SW",0.175,0.7,0.28,10
+"Drop Insecta","ER",0,0,0,5
+"Drop Insecta","sbm",0,0,0,6
+"Drop Insecta","SF",0.493150684931507,0.782608695652174,0.605042016806723,46
+"Drop Insecta","Spatial",0.714285714285714,0.555555555555556,0.625,45
+"Drop Insecta","SW",0,0,0,6
+"Drop Mammalia","ER",0.666666666666667,0.285714285714286,0.4,7
+"Drop Mammalia","sbm",0,0,0,1
+"Drop Mammalia","SF",0.478260869565217,0.785714285714286,0.594594594594595,14
+"Drop Mammalia","Spatial",0.946666666666667,0.91025641025641,0.928104575163399,78
+"Drop Mammalia","SW",1,0.5,0.666666666666667,2
+"Drop Insecta + Mammalia","SF",0,0,0,7
+"Drop Insecta + Mammalia","Spatial",0.421052631578947,1,0.592592592592593,8
+"Drop Insecta + Mammalia","SW",0,0,0,4
+"Drop Insecta, upsampled","ER",0.307692307692308,0.8,0.444444444444444,5
+"Drop Insecta, upsampled","sbm",0.1,0.166666666666667,0.125,6
+"Drop Insecta, upsampled","SF",0,0,0,46
+"Drop Insecta, upsampled","Spatial",0.666666666666667,0.577777777777778,0.619047619047619,45
+"Drop Insecta, upsampled","SW",0.130434782608696,1,0.230769230769231,6
+"Drop Mammalia, upsampled","ER",0.545454545454545,0.857142857142857,0.666666666666667,7
+"Drop Mammalia, upsampled","sbm",0.2,1,0.333333333333333,1
+"Drop Mammalia, upsampled","SF",0.1,0.0714285714285714,0.0833333333333333,14
+"Drop Mammalia, upsampled","Spatial",0.956521739130435,0.846153846153846,0.897959183673469,78
+"Drop Mammalia, upsampled","SW",0.142857142857143,0.5,0.222222222222222,2

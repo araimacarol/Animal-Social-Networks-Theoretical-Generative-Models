@@ -1,0 +1,7 @@
+"baseline_class","N","median_nodes","tested_30%","tested_50%","classifiable_30%","classifiable_50%","pct_same_30%","pct_same_50%","n_disconnected_30%","n_disconnected_50%"
+"ER",26,28,10,10,10,10,0,0,0,4
+"SF",40,28,22,25,22,25,50,60,3,6
+"SW",1,62,1,1,1,1,0,0,0,1
+"Spatial",275,99,271,269,271,269,94.1,93.3,97,142
+"sbm",7,13,7,6,7,5,0,0,3,3
+"Overall",349,89,311,311,311,310,85.5,85.8,103,156

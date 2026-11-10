@@ -1,0 +1,23 @@
+"model","class","feature","mean_abs_shap","share_pct"
+"Model1_with_species","Spatial","Captive",0.106668969762794,12.4
+"Model1_with_species","Spatial","Class",0.0172974168995639,2
+"Model1_with_species","Spatial","Data collection",0.106353280752939,12.3
+"Model1_with_species","Spatial","Data duration (days)",0.216134476410539,25.1
+"Model1_with_species","Spatial","Interaction type",0.0567347278682452,6.6
+"Model1_with_species","Spatial","Species",0.359077715687454,41.6
+"Model1_with_species","Scale-Free","Captive",0.015379356878569,2.3
+"Model1_with_species","Scale-Free","Class",0.00630044058727864,0.9
+"Model1_with_species","Scale-Free","Data collection",0.146836840296478,21.7
+"Model1_with_species","Scale-Free","Data duration (days)",0.0840840045885926,12.4
+"Model1_with_species","Scale-Free","Interaction type",0.0489926100886437,7.2
+"Model1_with_species","Scale-Free","Species",0.376588562867615,55.5
+"Model2_without_species","Spatial","Captive",0.172335048040815,12.6
+"Model2_without_species","Spatial","Class",0.127875795349311,9.3
+"Model2_without_species","Spatial","Data collection",0.385111428294959,28.1
+"Model2_without_species","Spatial","Data duration (days)",0.412322044895774,30
+"Model2_without_species","Spatial","Interaction type",0.275003450815932,20
+"Model2_without_species","Scale-Free","Captive",0.0503081455774438,6.1
+"Model2_without_species","Scale-Free","Class",0.0606308678246176,7.3
+"Model2_without_species","Scale-Free","Data collection",0.309595081955194,37.3
+"Model2_without_species","Scale-Free","Data duration (days)",0.197199103149345,23.8
+"Model2_without_species","Scale-Free","Interaction type",0.211470956598105,25.5

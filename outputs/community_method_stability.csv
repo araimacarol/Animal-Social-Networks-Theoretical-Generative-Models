@@ -1,0 +1,7 @@
+"subset","method","n_networks","n_networks_split","n_communities","n_geometric","pct_geometric"
+"all comparison networks","leading_eigen",29,24,53,29,54.7
+"all comparison networks","louvain",29,21,51,32,62.7
+"all comparison networks","walktrap",29,21,39,24,61.5
+"modularity >= 0.01","leading_eigen",14,14,29,20,69
+"modularity >= 0.01","louvain",14,14,29,22,75.9
+"modularity >= 0.01","walktrap",14,14,24,17,70.8

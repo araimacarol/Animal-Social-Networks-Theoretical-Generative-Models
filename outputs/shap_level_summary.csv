@@ -1,0 +1,143 @@
+"model","class","feature","level","n","mean_shap","sd_shap","sum_shap"
+"Model1_with_species","Spatial","Captive","No",257,0.0302853534860602,0.00906612264172252,7.78333584591746
+"Model1_with_species","Spatial","Captive","Semi ranging",3,0.00316275904575984,0.0419868104155768,0.00948827713727951
+"Model1_with_species","Spatial","Captive","Yes",185,-0.214018632028554,0.0828001008157703,-39.5934469252825
+"Model1_with_species","Spatial","Class","Aves",24,0.0332364743032182,0.0185099498489619,0.797675383277237
+"Model1_with_species","Spatial","Class","Insecta",182,0.0181320366541763,0.00813485640511358,3.30003067106009
+"Model1_with_species","Spatial","Class","Mammalia",224,-0.00921426520907127,0.00990808094157248,-2.06399540683196
+"Model1_with_species","Spatial","Class","Reptilia",15,-0.0373928114150961,0.00703391240282386,-0.560892171226442
+"Model1_with_species","Spatial","Data collection","RFID",35,0.149663592449256,0.0921210506269394,5.23822573572397
+"Model1_with_species","Spatial","Data collection","direct observation",1,-0.0851883068680763,NA,-0.0851883068680763
+"Model1_with_species","Spatial","Data collection","focal sampling",65,-0.155349718227696,0.118085188650804,-10.0977316848002
+"Model1_with_species","Spatial","Data collection","logger",24,-0.10252256381015,0.0154490193254695,-2.4605415314436
+"Model1_with_species","Spatial","Data collection","mark recapture",121,-0.13174414386865,0.0289728638500924,-15.9410414081067
+"Model1_with_species","Spatial","Data collection","survey scan",22,0.0281782163815065,0.1599380348971,0.619920760393143
+"Model1_with_species","Spatial","Data collection","video",177,0.0417489329047796,0.0430935774266868,7.38956112414598
+"Model1_with_species","Spatial","Interaction type","Dominance",7,-0.408307792884963,0.155966514021387,-2.85815455019474
+"Model1_with_species","Spatial","Interaction type","Foraging",1,-0.242351591587067,NA,-0.242351591587067
+"Model1_with_species","Spatial","Interaction type","Grooming",30,-0.0324431248009205,0,-0.973293744027615
+"Model1_with_species","Spatial","Interaction type","Group membership",6,0.0161855256495376,0.00674330289673424,0.0971131538972259
+"Model1_with_species","Spatial","Interaction type","Physical contact",179,0.0143226390189424,0.00669732655130846,2.56375238439068
+"Model1_with_species","Spatial","Interaction type","Social projection bipartite",142,-0.0891443976843861,0.00839167835905295,-12.6585044711828
+"Model1_with_species","Spatial","Interaction type","Spatial proximity",79,0.0124291409325751,0.0884919630077984,0.981902133673429
+"Model1_with_species","Spatial","Interaction type","Trophallaxis",1,-0.00533176865428686,NA,-0.00533176865428686
+"Model1_with_species","Spatial","Species","Acanthiza sp",1,-0.0234081409871578,NA,-0.0234081409871578
+"Model1_with_species","Spatial","Species","Ateles hybridus",1,0.110397636890411,NA,0.110397636890411
+"Model1_with_species","Spatial","Species","Bolitotherus cornutus",6,-0.184676438570023,0,-1.10805863142014
+"Model1_with_species","Spatial","Species","Bos taurus",1,0.0124994898214936,NA,0.0124994898214936
+"Model1_with_species","Spatial","Species","Branta leucopsis",1,0.00991809275001287,NA,0.00991809275001287
+"Model1_with_species","Spatial","Species","Camponotus fellah",166,0.522871599499002,0.0446270864572379,86.7966855168343
+"Model1_with_species","Spatial","Species","Camponotus pennsylvanicus",10,-0.684703528881073,0,-6.84703528881073
+"Model1_with_species","Spatial","Species","Canis familiaris",2,0.127956464886665,0,0.255912929773331
+"Model1_with_species","Spatial","Species","Crocuta crocuta",1,0.00243679713457823,NA,0.00243679713457823
+"Model1_with_species","Spatial","Species","Desmodus rotundus",1,-0.536547064781189,NA,-0.536547064781189
+"Model1_with_species","Spatial","Species","Elephas maximus",1,-0.235054448246956,NA,-0.235054448246956
+"Model1_with_species","Spatial","Species","Equus grevyi",1,-0.0470201410353184,NA,-0.0470201410353184
+"Model1_with_species","Spatial","Species","Gallus gallus",1,-0.182734355330467,NA,-0.182734355330467
+"Model1_with_species","Spatial","Species","Gopherus agassizii",14,-0.111728325486183,0,-1.56419655680656
+"Model1_with_species","Spatial","Species","Haemorhous mexicanus",7,-0.0444526789443834,0.0477257710897072,-0.311168752610683
+"Model1_with_species","Spatial","Species","Hirundo rustica",2,-0.0916337594389915,0,-0.183267518877983
+"Model1_with_species","Spatial","Species","Macaca fuscata",31,-0.111574295067018,0.0277053187807419,-3.45880314707756
+"Model1_with_species","Spatial","Species","Macropus giganteus",1,0.129368349909782,NA,0.129368349909782
+"Model1_with_species","Spatial","Species","Meles meles",12,0.14409913122654,0,1.72918957471848
+"Model1_with_species","Spatial","Species","Microtus agrestis",112,-0.181512326002121,0,-20.3293805122375
+"Model1_with_species","Spatial","Species","Mirounga angustirostris",2,-0.146790042519569,0,-0.293580085039139
+"Model1_with_species","Spatial","Species","Ovis canadensis",1,0.0346199981868267,NA,0.0346199981868267
+"Model1_with_species","Spatial","Species","Pan troglodytes",13,0.268612444400787,0,3.49196177721024
+"Model1_with_species","Spatial","Species","Papio cynocephalus",19,-1.01110148429871,0,-19.2109282016754
+"Model1_with_species","Spatial","Species","Philetairus socius",9,-0.152343794703484,0,-1.37109415233135
+"Model1_with_species","Spatial","Species","Procyon lotor",21,-0.506262540817261,0,-10.6315133571625
+"Model1_with_species","Spatial","Species","Tiliqua rugosa",1,-0.14284560084343,NA,-0.14284560084343
+"Model1_with_species","Spatial","Species","Tursiops truncatus",4,-0.100718453526497,0,-0.402873814105988
+"Model1_with_species","Spatial","Species","Zonotrichia atricapilla",3,-0.11236118276914,0.0173316068783041,-0.337083548307419
+"Model1_with_species","Scale-Free","Captive","No",257,0.00638917321520441,0.00747960144235586,1.64201751630753
+"Model1_with_species","Scale-Free","Captive","Semi ranging",3,0.0624238202969233,0.0298102629408255,0.18727146089077
+"Model1_with_species","Scale-Free","Captive","Yes",185,-0.0109731130125756,0.0258893607727105,-2.03002590732649
+"Model1_with_species","Scale-Free","Class","Aves",24,-0.0631121909245849,0.0294258677971902,-1.51469258219004
+"Model1_with_species","Scale-Free","Class","Insecta",182,0.00108451669770907,0.00112041033898705,0.197382038983051
+"Model1_with_species","Scale-Free","Class","Mammalia",224,0.00269860354598807,0.00329158132518868,0.604487194301328
+"Model1_with_species","Scale-Free","Class","Reptilia",15,0.0136623069023093,0.00226132970793175,0.204934603534639
+"Model1_with_species","Scale-Free","Data collection","RFID",35,-0.09986292448427,0.13476860742573,-3.49520235694945
+"Model1_with_species","Scale-Free","Data collection","direct observation",1,0.0314065478742123,NA,0.0314065478742123
+"Model1_with_species","Scale-Free","Data collection","focal sampling",65,0.0921494745721038,0.0235042282473351,5.98971584718674
+"Model1_with_species","Scale-Free","Data collection","logger",24,0.161344696146746,0.0219468966462454,3.87227270752192
+"Model1_with_species","Scale-Free","Data collection","mark recapture",121,0.0911561347359468,0.00237507636449499,11.0298923030496
+"Model1_with_species","Scale-Free","Data collection","survey scan",22,0.0189779871566729,0.107804709168881,0.417515717446804
+"Model1_with_species","Scale-Free","Data collection","video",177,-0.200834913231895,0.0737847180457775,-35.5477796420455
+"Model1_with_species","Scale-Free","Interaction type","Dominance",7,0.0479748763942293,0.0714376530320701,0.335824134759605
+"Model1_with_species","Scale-Free","Interaction type","Foraging",1,-0.0232112500816584,NA,-0.0232112500816584
+"Model1_with_species","Scale-Free","Interaction type","Grooming",30,0.0822161212563515,0,2.46648363769054
+"Model1_with_species","Scale-Free","Interaction type","Group membership",6,-0.00935512331003944,0.0200123030178135,-0.0561307398602366
+"Model1_with_species","Scale-Free","Interaction type","Physical contact",179,-0.00300076030007454,0.00668257455271577,-0.537136093713343
+"Model1_with_species","Scale-Free","Interaction type","Social projection bipartite",142,0.0699707114885391,0.0153405452663661,9.93584103137255
+"Model1_with_species","Scale-Free","Interaction type","Spatial proximity",79,-0.076721124421758,0.106556252846562,-6.06096882931888
+"Model1_with_species","Scale-Free","Interaction type","Trophallaxis",1,-0.0118513721972704,NA,-0.0118513721972704
+"Model1_with_species","Scale-Free","Species","Acanthiza sp",1,-0.0893625319004059,NA,-0.0893625319004059
+"Model1_with_species","Scale-Free","Species","Ateles hybridus",1,-0.217478558421135,NA,-0.217478558421135
+"Model1_with_species","Scale-Free","Species","Bolitotherus cornutus",6,0.0730192363262177,0,0.438115417957306
+"Model1_with_species","Scale-Free","Species","Bos taurus",1,-0.0479911491274834,NA,-0.0479911491274834
+"Model1_with_species","Scale-Free","Species","Branta leucopsis",1,-0.576015889644623,NA,-0.576015889644623
+"Model1_with_species","Scale-Free","Species","Camponotus fellah",166,-0.677392329078123,0.000983968636093467,-112.447126626968
+"Model1_with_species","Scale-Free","Species","Camponotus pennsylvanicus",10,0.264538168907166,0.00431885255098292,2.64538168907166
+"Model1_with_species","Scale-Free","Species","Canis familiaris",2,-0.359595507383347,0,-0.719191014766693
+"Model1_with_species","Scale-Free","Species","Crocuta crocuta",1,-0.382016241550446,NA,-0.382016241550446
+"Model1_with_species","Scale-Free","Species","Desmodus rotundus",1,0.245177254080772,NA,0.245177254080772
+"Model1_with_species","Scale-Free","Species","Elephas maximus",1,-0.38619989156723,NA,-0.38619989156723
+"Model1_with_species","Scale-Free","Species","Equus grevyi",1,-0.346530318260193,NA,-0.346530318260193
+"Model1_with_species","Scale-Free","Species","Gallus gallus",1,-0.306013643741608,NA,-0.306013643741608
+"Model1_with_species","Scale-Free","Species","Gopherus agassizii",14,0.235669404268265,0,3.29937165975571
+"Model1_with_species","Scale-Free","Species","Haemorhous mexicanus",7,0.107134787099702,0.0526452258712746,0.749943509697914
+"Model1_with_species","Scale-Free","Species","Hirundo rustica",2,0.210809752345085,0,0.42161950469017
+"Model1_with_species","Scale-Free","Species","Macaca fuscata",31,0.25056468479095,0.00110538751280765,7.76750522851944
+"Model1_with_species","Scale-Free","Species","Macropus giganteus",1,-0.0978672131896019,NA,-0.0978672131896019
+"Model1_with_species","Scale-Free","Species","Meles meles",12,-0.134796336293221,0,-1.61755603551865
+"Model1_with_species","Scale-Free","Species","Microtus agrestis",112,0.169459149241447,0,18.9794247150421
+"Model1_with_species","Scale-Free","Species","Mirounga angustirostris",2,0.156545087695122,0,0.313090175390244
+"Model1_with_species","Scale-Free","Species","Ovis canadensis",1,0.0633347779512405,NA,0.0633347779512405
+"Model1_with_species","Scale-Free","Species","Pan troglodytes",13,0.00889678299427032,0,0.115658178925514
+"Model1_with_species","Scale-Free","Species","Papio cynocephalus",19,0.222189739346504,0,4.22160504758358
+"Model1_with_species","Scale-Free","Species","Philetairus socius",9,0.245826333761215,0,2.21243700385094
+"Model1_with_species","Scale-Free","Species","Procyon lotor",21,0.371237516403198,0,7.79598784446716
+"Model1_with_species","Scale-Free","Species","Tiliqua rugosa",1,-0.174357295036316,NA,-0.174357295036316
+"Model1_with_species","Scale-Free","Species","Tursiops truncatus",4,-0.0617163628339767,0,-0.246865451335907
+"Model1_with_species","Scale-Free","Species","Zonotrichia atricapilla",3,-0.219562202692032,0.0245573396457322,-0.658686608076096
+"Model2_without_species","Spatial","Captive","No",253,0.0620741540043368,0.0666040067232843,15.7047609630972
+"Model2_without_species","Spatial","Captive","Semi ranging",2,0.327336519956589,0.0494413721700685,0.654673039913177
+"Model2_without_species","Spatial","Captive","Yes",190,-0.317320185586026,0.181313045624916,-60.2908352613449
+"Model2_without_species","Spatial","Class","Aves",20,0.235980058461428,0.190685816494659,4.71960116922855
+"Model2_without_species","Spatial","Class","Insecta",189,0.0660978485904043,0.10699496802075,12.4924933835864
+"Model2_without_species","Spatial","Class","Mammalia",217,-0.0855506506624035,0.11719715732842,-18.5644911937416
+"Model2_without_species","Spatial","Class","Reptilia",19,-0.082428736122031,0.0379459363394105,-1.56614598631859
+"Model2_without_species","Spatial","Data collection","RFID",37,0.558445931286425,0.35514149607727,20.6624994575977
+"Model2_without_species","Spatial","Data collection","direct observation",1,-0.463778674602509,NA,-0.463778674602509
+"Model2_without_species","Spatial","Data collection","focal sampling",60,-0.37137008930246,0.0459676650652769,-22.2822053581476
+"Model2_without_species","Spatial","Data collection","logger",23,-0.419154736658801,0.0371869956288491,-9.64055894315243
+"Model2_without_species","Spatial","Data collection","mark recapture",118,-0.35334362215915,0.0626730375437613,-41.6945474147797
+"Model2_without_species","Spatial","Data collection","survey scan",26,-0.212995804129885,0.451230289497302,-5.537890907377
+"Model2_without_species","Spatial","Data collection","video",180,0.364963352493942,0.0806022746254551,65.6934034489095
+"Model2_without_species","Spatial","Interaction type","Dominance",6,-1.22793401281039,0.319333214483847,-7.36760407686234
+"Model2_without_species","Spatial","Interaction type","Grooming",25,0.0515434369444847,0,1.28858592361212
+"Model2_without_species","Spatial","Interaction type","Group membership",9,0.249797072675493,0.0575285227406616,2.24817365407944
+"Model2_without_species","Spatial","Interaction type","Physical contact",181,0.361273463012764,0.0501745525517452,65.3904968053102
+"Model2_without_species","Spatial","Interaction type","Social projection bipartite",144,-0.149059348920774,0.0381256223202755,-21.4645462445915
+"Model2_without_species","Spatial","Interaction type","Spatial proximity",80,-0.276826610416174,0.218735113540781,-22.1461288332939
+"Model2_without_species","Scale-Free","Captive","No",253,0.0612054093623085,0.0409257342510042,15.484968568664
+"Model2_without_species","Scale-Free","Captive","Semi ranging",2,0.0355630423873663,0.030252373024214,0.0711260847747326
+"Model2_without_species","Scale-Free","Captive","Yes",190,0.0278914241610389,0.0594554849348543,5.29937059059739
+"Model2_without_species","Scale-Free","Class","Aves",20,0.209270477108657,0.236561698344744,4.18540954217315
+"Model2_without_species","Scale-Free","Class","Insecta",189,0.0627124451012129,0.0597712865431537,11.8526521241292
+"Model2_without_species","Scale-Free","Class","Mammalia",217,-0.0323225955746012,0.067334689882575,-7.01400323968846
+"Model2_without_species","Scale-Free","Class","Reptilia",19,0.158758879688225,0.029923684247129,3.01641871407628
+"Model2_without_species","Scale-Free","Data collection","RFID",37,-0.128463227805254,0.24445423518197,-4.75313942879438
+"Model2_without_species","Scale-Free","Data collection","direct observation",1,0.13165494799614,NA,0.13165494799614
+"Model2_without_species","Scale-Free","Data collection","focal sampling",60,0.19263388615412,0.0620511163660315,11.5580331692472
+"Model2_without_species","Scale-Free","Data collection","logger",23,0.405785579396331,0.0394841853980348,9.33306832611561
+"Model2_without_species","Scale-Free","Data collection","mark recapture",118,0.211119131516602,0.00566486566515908,24.912057518959
+"Model2_without_species","Scale-Free","Data collection","survey scan",26,-0.129930525337561,0.265124835590136,-3.37819365877658
+"Model2_without_species","Scale-Free","Data collection","video",180,-0.431285910639498,0.0354251222223235,-77.6314639151096
+"Model2_without_species","Scale-Free","Interaction type","Dominance",6,0.0041382759809494,0.467152422375726,0.0248296558856964
+"Model2_without_species","Scale-Free","Interaction type","Grooming",25,0.35161691904068,0,8.790422976017
+"Model2_without_species","Scale-Free","Interaction type","Group membership",9,-0.247228359182676,0.0927274377163597,-2.22505523264408
+"Model2_without_species","Scale-Free","Interaction type","Physical contact",181,-0.303128675120312,0.0227285614415845,-54.8662901967764
+"Model2_without_species","Scale-Free","Interaction type","Social projection bipartite",144,0.0886222812243634,0.0174228761566699,12.7616084963083
+"Model2_without_species","Scale-Free","Interaction type","Spatial proximity",80,-0.0951333953998983,0.208160271405504,-7.61067163199186

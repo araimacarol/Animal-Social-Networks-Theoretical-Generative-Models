@@ -1,0 +1,22 @@
+"Config","estimator","auc"
+"Baseline (all taxa)","hand_till",0.755229131061292
+"Baseline (all taxa)","macro",0.832029802631662
+"Baseline (all taxa)","macro_weighted",0.842185123624643
+"Upsampled (all taxa)","hand_till",0.761316826402154
+"Upsampled (all taxa)","macro",0.798608197501658
+"Upsampled (all taxa)","macro_weighted",0.827427960688365
+"Drop Insecta","hand_till",0.723773752012882
+"Drop Insecta","macro",0.754001607289904
+"Drop Insecta","macro_weighted",0.705551067403179
+"Drop Mammalia","hand_till",0.875124280481423
+"Drop Mammalia","macro",0.929254782057153
+"Drop Mammalia","macro_weighted",0.919966720743282
+"Drop Insecta + Mammalia","hand_till",0.468005952380952
+"Drop Insecta + Mammalia","macro",0.459902597402597
+"Drop Insecta + Mammalia","macro_weighted",0.461004784688995
+"Drop Insecta, upsampled","hand_till",0.753041867954911
+"Drop Insecta, upsampled","macro",0.732840749973822
+"Drop Insecta, upsampled","macro_weighted",0.685066158171132
+"Drop Mammalia, upsampled","hand_till",0.87780612244898
+"Drop Mammalia, upsampled","macro",0.857642166602433
+"Drop Mammalia, upsampled","macro_weighted",0.847240855277478

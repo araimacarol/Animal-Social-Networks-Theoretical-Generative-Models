@@ -1,0 +1,350 @@
+"graph_name","n_nodes","n_components","pct_nodes_in_lcc"
+"aves-barn-swallow-contact-network",17,1,100
+"Badger_Autumn1.csv ",35,4,57.1428571428571
+"Badger_Autumn2.csv ",30,6,46.6666666666667
+"Badger_Autumn3.csv ",44,4,59.0909090909091
+"Badger_Autumn4.csv ",44,2,93.1818181818182
+"Badger_Spring1.csv ",34,3,73.5294117647059
+"Badger_Spring2.csv ",34,4,47.0588235294118
+"Badger_Spring3.csv ",27,3,51.8518518518519
+"Badger_Summer1.csv ",42,2,90.4761904761905
+"Badger_Summer2.csv ",41,2,58.5365853658537
+"Badger_Summer3.csv ",40,2,87.5
+"Badger_Summer4.csv ",35,4,65.7142857142857
+"Badger_Winter2.csv ",39,4,51.2820512820513
+"Badger_Winter3.csv ",40,3,85
+"Badger_Winter4.csv ",38,3,84.2105263157895
+"Chimp__AugSRI_G_Matrix.csv ",36,1,100
+"Chimp__DecSRI_G_Matrix.csv ",37,2,75.6756756756757
+"Chimp__JunSRI_G_Matrix.csv ",37,2,89.1891891891892
+"Chimp_Apr_Prob5_MatrixNoNAs.csv ",36,2,88.8888888888889
+"Chimp_AprSRI_G_Matrix.csv ",37,2,89.1891891891892
+"Chimp_Aug_Prob5_MatrixNoNAs.csv ",35,1,100
+"Chimp_Dec_Prob5_MatrixNoNAs.csv ",35,2,74.2857142857143
+"Chimp_Feb_Prob5_MatrixNoNAs.csv ",37,2,83.7837837837838
+"Chimp_FebSRI_G_Matrix.csv ",37,2,83.7837837837838
+"Chimp_Jan_Prob5_MatrixNoNAs.csv ",37,2,89.1891891891892
+"Chimp_JanSRI_G_Matrix.csv ",37,2,89.1891891891892
+"Chimp_Jul_Prob5_MatrixNoNAs.csv ",33,1,100
+"Chimp_JulSRI_G_Matrix.csv ",37,1,100
+"Chimp_Jun_Prob5_MatrixNoNAs.csv ",36,2,88.8888888888889
+"Chimp_Mar_Prob5_MatrixNoNAs.csv ",36,2,77.7777777777778
+"Chimp_MarSRI_G_Matrix.csv ",37,2,78.3783783783784
+"Chimp_May_Prob5_MatrixNoNAs.csv ",37,2,89.1891891891892
+"Chimp_MaySRI_G_Matrix.csv ",37,2,89.1891891891892
+"Domestic_Ddog_matrix1.csv ",48,1,100
+"Domestic_Ddog_matrix2.csv ",60,1,100
+"Giraffe_edgelist_matriz.csv ",194,1,100
+"insecta-ant-colony1-day01",113,1,100
+"insecta-ant-colony1-day02",113,1,100
+"insecta-ant-colony1-day03",113,1,100
+"insecta-ant-colony1-day04",113,1,100
+"insecta-ant-colony1-day05",113,1,100
+"insecta-ant-colony1-day06",113,1,100
+"insecta-ant-colony1-day07",113,1,100
+"insecta-ant-colony1-day08",113,1,100
+"insecta-ant-colony1-day09",113,1,100
+"insecta-ant-colony1-day10",113,1,100
+"insecta-ant-colony1-day11",113,1,100
+"insecta-ant-colony1-day12",99,1,100
+"insecta-ant-colony1-day13",99,1,100
+"insecta-ant-colony1-day14",99,1,100
+"insecta-ant-colony1-day15",99,1,100
+"insecta-ant-colony1-day16",99,1,100
+"insecta-ant-colony1-day17",99,1,100
+"insecta-ant-colony1-day18",99,1,100
+"insecta-ant-colony1-day19",99,1,100
+"insecta-ant-colony1-day20",99,1,100
+"insecta-ant-colony1-day21",99,1,100
+"insecta-ant-colony1-day22",80,1,100
+"insecta-ant-colony1-day23",80,1,100
+"insecta-ant-colony1-day24",80,1,100
+"insecta-ant-colony1-day25",80,1,100
+"insecta-ant-colony1-day26",80,1,100
+"insecta-ant-colony1-day27",80,1,100
+"insecta-ant-colony1-day28",80,1,100
+"insecta-ant-colony1-day29",80,1,100
+"insecta-ant-colony1-day30",80,1,100
+"insecta-ant-colony1-day31",80,1,100
+"insecta-ant-colony1-day32",56,1,100
+"insecta-ant-colony1-day33",56,1,100
+"insecta-ant-colony1-day34",56,1,100
+"insecta-ant-colony1-day35",56,1,100
+"insecta-ant-colony1-day36",56,1,100
+"insecta-ant-colony1-day37",55,1,100
+"insecta-ant-colony1-day38",56,1,100
+"insecta-ant-colony1-day39",55,1,100
+"insecta-ant-colony1-day40",55,1,100
+"insecta-ant-colony1-day41",55,1,100
+"insecta-ant-colony1",113,1,100
+"insecta-ant-colony2-day01",131,1,100
+"insecta-ant-colony2-day02",131,1,100
+"insecta-ant-colony2-day03",131,1,100
+"insecta-ant-colony2-day04",131,1,100
+"insecta-ant-colony2-day05",131,1,100
+"insecta-ant-colony2-day06",131,1,100
+"insecta-ant-colony2-day07",131,1,100
+"insecta-ant-colony2-day08",131,1,100
+"insecta-ant-colony2-day09",131,1,100
+"insecta-ant-colony2-day10",131,1,100
+"insecta-ant-colony2-day11",131,1,100
+"insecta-ant-colony2-day12",111,1,100
+"insecta-ant-colony2-day13",111,1,100
+"insecta-ant-colony2-day14",111,1,100
+"insecta-ant-colony2-day15",111,1,100
+"insecta-ant-colony2-day16",111,1,100
+"insecta-ant-colony2-day17",111,1,100
+"insecta-ant-colony2-day18",111,1,100
+"insecta-ant-colony2-day19",111,1,100
+"insecta-ant-colony2-day20",111,1,100
+"insecta-ant-colony2-day21",111,1,100
+"insecta-ant-colony2-day22",90,1,100
+"insecta-ant-colony2-day23",90,1,100
+"insecta-ant-colony2-day24",90,1,100
+"insecta-ant-colony2-day25",90,1,100
+"insecta-ant-colony2-day26",89,1,100
+"insecta-ant-colony2-day27",89,1,100
+"insecta-ant-colony2-day28",88,1,100
+"insecta-ant-colony2-day29",89,1,100
+"insecta-ant-colony2-day30",88,1,100
+"insecta-ant-colony2-day31",87,1,100
+"insecta-ant-colony2-day32",58,1,100
+"insecta-ant-colony2-day33",58,1,100
+"insecta-ant-colony2-day34",58,1,100
+"insecta-ant-colony2-day35",58,1,100
+"insecta-ant-colony2-day36",58,1,100
+"insecta-ant-colony2-day37",58,1,100
+"insecta-ant-colony2-day38",58,1,100
+"insecta-ant-colony2-day39",58,1,100
+"insecta-ant-colony2-day40",58,1,100
+"insecta-ant-colony2-day41",58,1,100
+"insecta-ant-colony2",131,1,100
+"insecta-ant-colony3-day01",160,1,100
+"insecta-ant-colony3-day02",160,1,100
+"insecta-ant-colony3-day03",160,1,100
+"insecta-ant-colony3-day04",160,1,100
+"insecta-ant-colony3-day05",160,1,100
+"insecta-ant-colony3-day06",160,1,100
+"insecta-ant-colony3-day07",160,1,100
+"insecta-ant-colony3-day08",159,1,100
+"insecta-ant-colony3-day09",160,1,100
+"insecta-ant-colony3-day10",159,1,100
+"insecta-ant-colony3-day11",160,1,100
+"insecta-ant-colony3-day12",141,1,100
+"insecta-ant-colony3-day13",141,1,100
+"insecta-ant-colony3-day14",141,1,100
+"insecta-ant-colony3-day15",141,1,100
+"insecta-ant-colony3-day16",141,1,100
+"insecta-ant-colony3-day17",141,1,100
+"insecta-ant-colony3-day18",141,1,100
+"insecta-ant-colony3-day19",141,1,100
+"insecta-ant-colony3-day20",141,1,100
+"insecta-ant-colony3-day21",140,1,100
+"insecta-ant-colony3-day22",115,1,100
+"insecta-ant-colony3-day23",115,1,100
+"insecta-ant-colony3-day24",115,1,100
+"insecta-ant-colony3-day25",115,1,100
+"insecta-ant-colony3-day26",115,1,100
+"insecta-ant-colony3-day27",115,1,100
+"insecta-ant-colony3-day28",115,1,100
+"insecta-ant-colony3-day29",115,1,100
+"insecta-ant-colony3-day30",115,1,100
+"insecta-ant-colony3-day31",115,1,100
+"insecta-ant-colony3-day32",95,1,100
+"insecta-ant-colony3-day33",95,1,100
+"insecta-ant-colony3-day34",95,1,100
+"insecta-ant-colony3-day35",95,1,100
+"insecta-ant-colony3-day36",94,1,100
+"insecta-ant-colony3-day37",94,1,100
+"insecta-ant-colony3-day38",94,1,100
+"insecta-ant-colony3-day39",93,1,100
+"insecta-ant-colony3-day40",93,1,100
+"insecta-ant-colony3-day41",94,1,100
+"insecta-ant-colony3",160,1,100
+"insecta-ant-colony4-day01",102,1,100
+"insecta-ant-colony4-day02",102,1,100
+"insecta-ant-colony4-day03",102,1,100
+"insecta-ant-colony4-day04",102,1,100
+"insecta-ant-colony4-day05",102,1,100
+"insecta-ant-colony4-day06",102,1,100
+"insecta-ant-colony4-day07",102,1,100
+"insecta-ant-colony4-day08",102,1,100
+"insecta-ant-colony4-day09",102,1,100
+"insecta-ant-colony4-day10",102,1,100
+"insecta-ant-colony4-day11",102,1,100
+"insecta-ant-colony4-day12",73,1,100
+"insecta-ant-colony4-day13",73,1,100
+"insecta-ant-colony4-day14",73,1,100
+"insecta-ant-colony4-day15",73,1,100
+"insecta-ant-colony4-day16",73,1,100
+"insecta-ant-colony4-day17",73,1,100
+"insecta-ant-colony4-day18",73,1,100
+"insecta-ant-colony4-day19",73,1,100
+"insecta-ant-colony4-day20",73,1,100
+"insecta-ant-colony4-day21",73,1,100
+"insecta-ant-colony4-day22",55,1,100
+"insecta-ant-colony4-day23",55,1,100
+"insecta-ant-colony4-day24",55,1,100
+"insecta-ant-colony4-day25",55,1,100
+"insecta-ant-colony4-day26",55,1,100
+"insecta-ant-colony4-day27",55,1,100
+"insecta-ant-colony4-day28",55,1,100
+"insecta-ant-colony4-day29",55,1,100
+"insecta-ant-colony4-day30",55,1,100
+"insecta-ant-colony4-day31",55,1,100
+"insecta-ant-colony4-day32",35,1,100
+"insecta-ant-colony4-day33",35,1,100
+"insecta-ant-colony4-day34",35,1,100
+"insecta-ant-colony4-day35",35,1,100
+"insecta-ant-colony4-day36",35,1,100
+"insecta-ant-colony4-day37",35,1,100
+"insecta-ant-colony4-day38",35,1,100
+"insecta-ant-colony4-day39",35,1,100
+"insecta-ant-colony4-day40",35,1,100
+"insecta-ant-colony4-day41",35,1,100
+"insecta-ant-colony4",102,1,100
+"insecta-ant-colony5-day01",152,1,100
+"insecta-ant-colony5-day02",152,1,100
+"insecta-ant-colony5-day03",152,1,100
+"insecta-ant-colony5-day04",152,1,100
+"insecta-ant-colony5-day05",152,1,100
+"insecta-ant-colony5-day06",152,1,100
+"insecta-ant-colony5-day07",152,1,100
+"insecta-ant-colony5-day08",152,1,100
+"insecta-ant-colony5-day09",152,1,100
+"insecta-ant-colony5-day10",152,1,100
+"insecta-ant-colony5-day11",152,1,100
+"insecta-ant-colony5-day12",133,1,100
+"insecta-ant-colony5-day13",133,1,100
+"insecta-ant-colony5-day14",133,1,100
+"insecta-ant-colony5-day15",133,1,100
+"insecta-ant-colony5-day16",133,1,100
+"insecta-ant-colony5-day17",133,1,100
+"insecta-ant-colony5-day18",133,1,100
+"insecta-ant-colony5-day19",133,1,100
+"insecta-ant-colony5-day20",133,1,100
+"insecta-ant-colony5-day21",132,1,100
+"insecta-ant-colony5-day22",89,1,100
+"insecta-ant-colony5-day23",89,1,100
+"insecta-ant-colony5-day24",89,1,100
+"insecta-ant-colony5-day25",89,1,100
+"insecta-ant-colony5-day26",89,1,100
+"insecta-ant-colony5-day27",89,1,100
+"insecta-ant-colony5-day28",89,1,100
+"insecta-ant-colony5-day29",89,1,100
+"insecta-ant-colony5-day30",89,1,100
+"insecta-ant-colony5-day31",89,1,100
+"insecta-ant-colony5-day32",66,1,100
+"insecta-ant-colony5-day33",66,1,100
+"insecta-ant-colony5-day34",66,1,100
+"insecta-ant-colony5-day35",66,1,100
+"insecta-ant-colony5-day36",66,1,100
+"insecta-ant-colony5-day37",66,1,100
+"insecta-ant-colony5-day38",66,1,100
+"insecta-ant-colony5-day39",66,1,100
+"insecta-ant-colony5-day40",66,1,100
+"insecta-ant-colony5-day41",66,1,100
+"insecta-ant-colony5",152,1,100
+"insecta-ant-colony6-day01",164,1,100
+"insecta-ant-colony6-day02",164,1,100
+"insecta-ant-colony6-day03",164,1,100
+"insecta-ant-colony6-day04",164,1,100
+"insecta-ant-colony6-day05",164,1,100
+"insecta-ant-colony6-day06",164,1,100
+"insecta-ant-colony6-day07",164,1,100
+"insecta-ant-colony6-day08",164,1,100
+"insecta-ant-colony6-day09",164,1,100
+"insecta-ant-colony6-day10",164,1,100
+"insecta-ant-colony6-day11",164,1,100
+"insecta-ant-colony6-day12",143,1,100
+"insecta-ant-colony6-day13",143,1,100
+"insecta-ant-colony6-day14",143,1,100
+"insecta-ant-colony6-day15",143,1,100
+"insecta-ant-colony6-day16",143,1,100
+"insecta-ant-colony6-day17",143,1,100
+"insecta-ant-colony6-day18",143,1,100
+"insecta-ant-colony6-day19",143,1,100
+"insecta-ant-colony6-day20",143,1,100
+"insecta-ant-colony6-day21",143,1,100
+"insecta-ant-colony6-day22",118,1,100
+"insecta-ant-colony6-day23",118,1,100
+"insecta-ant-colony6-day24",118,1,100
+"insecta-ant-colony6-day25",118,1,100
+"insecta-ant-colony6-day26",118,1,100
+"insecta-ant-colony6-day27",118,1,100
+"insecta-ant-colony6-day28",118,1,100
+"insecta-ant-colony6-day29",118,1,100
+"insecta-ant-colony6-day30",118,1,100
+"insecta-ant-colony6-day31",118,1,100
+"insecta-ant-colony6-day32",91,1,100
+"insecta-ant-colony6-day33",91,1,100
+"insecta-ant-colony6-day34",91,1,100
+"insecta-ant-colony6-day35",91,1,100
+"insecta-ant-colony6-day36",91,1,100
+"insecta-ant-colony6-day37",91,1,100
+"insecta-ant-colony6-day38",91,1,100
+"insecta-ant-colony6-day39",91,1,100
+"insecta-ant-colony6",164,1,100
+"insecta-ant-trophallaxis-colony1-day1",30,3,80
+"insecta-ant-trophallaxis-colony1-day2",24,1,100
+"insecta-ant-trophallaxis-colony1-day3",29,4,79.3103448275862
+"insecta-ant-trophallaxis-colony1-day4",35,2,88.5714285714286
+"insecta-ant-trophallaxis-colony1-day5",27,4,74.0740740740741
+"insecta-ant-trophallaxis-colony1-day7",29,1,100
+"insecta-ant-trophallaxis-colony1-day8",37,1,100
+"insecta-ant-trophallaxis-colony1",41,1,100
+"insecta-ant-trophallaxis-colony2-day1",26,1,100
+"insecta-ant-trophallaxis-colony2-day2",24,1,100
+"insecta-ant-trophallaxis-colony2-day3",28,1,100
+"insecta-ant-trophallaxis-colony2-day4",31,3,80.6451612903226
+"insecta-ant-trophallaxis-colony2-day5",30,1,100
+"insecta-ant-trophallaxis-colony2-day6",33,1,100
+"insecta-ant-trophallaxis-colony2-day7",31,1,100
+"insecta-ant-trophallaxis-colony2-day8",27,1,100
+"insecta-ant-trophallaxis-colony2",39,1,100
+"insecta-beetle-group-c1-period-1",30,1,100
+"insecta-beetle-group-c1-period-2",30,1,100
+"insecta-beetle-group-c2-period-1",27,1,100
+"insecta-beetle-group-c2-period-2",30,1,100
+"insecta-beetle-group-c3-period-1",28,1,100
+"insecta-beetle-group-c3-period-2",29,1,100
+"insecta-beetle-group-c4-period-1",30,1,100
+"insecta-beetle-group-c4-period-2",30,1,100
+"insecta-beetle-group-t1-period-1",30,1,100
+"insecta-beetle-group-t2-period-1",30,1,100
+"insecta-beetle-group-t3-period-1",29,1,100
+"insecta-beetle-group-t4-period-1",30,1,100
+"mammalia-baboon-association-group03",25,2,92
+"mammalia-baboon-association-group07",16,1,100
+"mammalia-baboon-association-group08",20,1,100
+"mammalia-baboon-association-group09",23,4,52.1739130434783
+"mammalia-baboon-association-group10",13,1,100
+"mammalia-baboon-association-group11",14,1,100
+"mammalia-baboon-association-group19",13,1,100
+"mammalia-baboon-association-group20",13,1,100
+"mammalia-baboon-association-group23",21,1,100
+"mammalia-baboon-association-group27",17,2,88.2352941176471
+"mammalia-baboon-association-group28",16,1,100
+"mammalia-baboon-association-group29",13,1,100
+"mammalia-baboon-grooming-group03",23,1,100
+"mammalia-baboon-grooming-group07",16,1,100
+"mammalia-baboon-grooming-group08",15,2,80
+"mammalia-baboon-grooming-group09",23,4,47.8260869565217
+"mammalia-baboon-grooming-group10",13,1,100
+"mammalia-baboon-grooming-group11",12,1,100
+"mammalia-baboon-grooming-group19",11,1,100
+"mammalia-baboon-grooming-group20",13,1,100
+"mammalia-baboon-grooming-group23",18,1,100
+"mammalia-baboon-grooming-group25",13,2,84.6153846153846
+"mammalia-baboon-grooming-group26",18,1,100
+"mammalia-baboon-grooming-group27",17,1,100
+"mammalia-baboon-grooming-group28",16,1,100
+"mammalia-baboon-grooming-group29",13,1,100
+"mammalia-dolphin-florida-forage",190,6,92.6315789473684
+"mammalia-dolphin-florida-overall",291,3,97.5945017182131
+"mammalia-dolphin-florida-social",151,2,98.6754966887417
+"mammalia-dolphin-floridatravel",188,6,83.5106382978723
+"mammalia-dolphin-social",62,1,100
+"mammalia-hyena-networka",35,1,100
+"mammalia-hyena-networkb",36,1,100
+"mammalia-hyena-networkc",35,1,100

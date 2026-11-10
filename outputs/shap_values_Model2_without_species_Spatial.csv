@@ -1,0 +1,2226 @@
+"model","class","network","feature","level","shap_logodds"
+"Model2_without_species","Spatial",1,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",2,"Captive","No",0.179891094565392
+"Model2_without_species","Spatial",3,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",4,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",5,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",6,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",7,"Captive","Yes",-0.363781988620758
+"Model2_without_species","Spatial",8,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",9,"Captive","No",0.115854643285275
+"Model2_without_species","Spatial",10,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",11,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",12,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",13,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",14,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",15,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",16,"Captive","No",0.232220143079758
+"Model2_without_species","Spatial",17,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",18,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",19,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",20,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",21,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",22,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",23,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",24,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",25,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",26,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",27,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",28,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",29,"Captive","No",0.115854643285275
+"Model2_without_species","Spatial",30,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",31,"Captive","Yes",-0.363781988620758
+"Model2_without_species","Spatial",32,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",33,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",34,"Captive","No",0.274565517902374
+"Model2_without_species","Spatial",35,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",36,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",37,"Captive","No",0.169785723090172
+"Model2_without_species","Spatial",38,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",39,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",40,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",41,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",42,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",43,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",44,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",45,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",46,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",47,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",48,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",49,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",50,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",51,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",52,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",53,"Captive","Yes",-1.07833325862885
+"Model2_without_species","Spatial",54,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",55,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",56,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",57,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",58,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",59,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",60,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",61,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",62,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",63,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",64,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",65,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",66,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",67,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",68,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",69,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",70,"Captive","Yes",-0.624076247215271
+"Model2_without_species","Spatial",71,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",72,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",73,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",74,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",75,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",76,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",77,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",78,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",79,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",80,"Captive","No",0.222872123122215
+"Model2_without_species","Spatial",81,"Captive","No",0.115854643285275
+"Model2_without_species","Spatial",82,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",83,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",84,"Captive","Yes",-1.07833325862885
+"Model2_without_species","Spatial",85,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",86,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",87,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",88,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",89,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",90,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",91,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",92,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",93,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",94,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",95,"Captive","Yes",-0.363781988620758
+"Model2_without_species","Spatial",96,"Captive","No",0.11354660987854
+"Model2_without_species","Spatial",97,"Captive","No",0.222872123122215
+"Model2_without_species","Spatial",98,"Captive","Yes",-1.07833325862885
+"Model2_without_species","Spatial",99,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",100,"Captive","Yes",-0.624076247215271
+"Model2_without_species","Spatial",101,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",102,"Captive","No",0.169785723090172
+"Model2_without_species","Spatial",103,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",104,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",105,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",106,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",107,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",108,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",109,"Captive","No",0.220676526427269
+"Model2_without_species","Spatial",110,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",111,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",112,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",113,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",114,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",115,"Captive","No",0.222872123122215
+"Model2_without_species","Spatial",116,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",117,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",118,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",119,"Captive","Yes",-1.07833325862885
+"Model2_without_species","Spatial",120,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",121,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",122,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",123,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",124,"Captive","Yes",-1.07833325862885
+"Model2_without_species","Spatial",125,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",126,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",127,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",128,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",129,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",130,"Captive","Yes",-1.07833325862885
+"Model2_without_species","Spatial",131,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",132,"Captive","No",0.246364369988441
+"Model2_without_species","Spatial",133,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",134,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",135,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",136,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",137,"Captive","Yes",-0.624076247215271
+"Model2_without_species","Spatial",138,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",139,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",140,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",141,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",142,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",143,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",144,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",145,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",146,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",147,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",148,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",149,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",150,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",151,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",152,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",153,"Captive","Yes",-0.363781988620758
+"Model2_without_species","Spatial",154,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",155,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",156,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",157,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",158,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",159,"Captive","Yes",-0.481335878372192
+"Model2_without_species","Spatial",160,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",161,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",162,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",163,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",164,"Captive","Yes",-0.363781988620758
+"Model2_without_species","Spatial",165,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",166,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",167,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",168,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",169,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",170,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",171,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",172,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",173,"Captive","No",0.169785723090172
+"Model2_without_species","Spatial",174,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",175,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",176,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",177,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",178,"Captive","Semi ranging",0.292376190423965
+"Model2_without_species","Spatial",179,"Captive","No",0.222872123122215
+"Model2_without_species","Spatial",180,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",181,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",182,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",183,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",184,"Captive","Semi ranging",0.362296849489212
+"Model2_without_species","Spatial",185,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",186,"Captive","No",0.169785723090172
+"Model2_without_species","Spatial",187,"Captive","No",0.150321558117867
+"Model2_without_species","Spatial",188,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",189,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",190,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",191,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",192,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",193,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",194,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",195,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",196,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",197,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",198,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",199,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",200,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",201,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",202,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",203,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",204,"Captive","No",0.222872123122215
+"Model2_without_species","Spatial",205,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",206,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",207,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",208,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",209,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",210,"Captive","No",0.237997010350227
+"Model2_without_species","Spatial",211,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",212,"Captive","No",0.149028792977333
+"Model2_without_species","Spatial",213,"Captive","Yes",-0.363781988620758
+"Model2_without_species","Spatial",214,"Captive","Yes",-0.624076247215271
+"Model2_without_species","Spatial",215,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",216,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",217,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",218,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",219,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",220,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",221,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",222,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",223,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",224,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",225,"Captive","No",0.115854643285275
+"Model2_without_species","Spatial",226,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",227,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",228,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",229,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",230,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",231,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",232,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",233,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",234,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",235,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",236,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",237,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",238,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",239,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",240,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",241,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",242,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",243,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",244,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",245,"Captive","No",0.237997010350227
+"Model2_without_species","Spatial",246,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",247,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",248,"Captive","Yes",-1.07833325862885
+"Model2_without_species","Spatial",249,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",250,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",251,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",252,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",253,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",254,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",255,"Captive","No",0.115854643285275
+"Model2_without_species","Spatial",256,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",257,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",258,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",259,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",260,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",261,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",262,"Captive","No",0.169785723090172
+"Model2_without_species","Spatial",263,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",264,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",265,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",266,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",267,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",268,"Captive","Yes",-1.07833325862885
+"Model2_without_species","Spatial",269,"Captive","No",0.222872123122215
+"Model2_without_species","Spatial",270,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",271,"Captive","No",0.217100843787193
+"Model2_without_species","Spatial",272,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",273,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",274,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",275,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",276,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",277,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",278,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",279,"Captive","No",0.221399337053299
+"Model2_without_species","Spatial",280,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",281,"Captive","No",0.0551362186670303
+"Model2_without_species","Spatial",282,"Captive","No",0.232220143079758
+"Model2_without_species","Spatial",283,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",284,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",285,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",286,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",287,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",288,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",289,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",290,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",291,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",292,"Captive","Yes",-0.363781988620758
+"Model2_without_species","Spatial",293,"Captive","No",0.115854643285275
+"Model2_without_species","Spatial",294,"Captive","Yes",-0.363781988620758
+"Model2_without_species","Spatial",295,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",296,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",297,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",298,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",299,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",300,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",301,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",302,"Captive","No",0.246364369988441
+"Model2_without_species","Spatial",303,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",304,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",305,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",306,"Captive","Yes",-0.363781988620758
+"Model2_without_species","Spatial",307,"Captive","No",0.11354660987854
+"Model2_without_species","Spatial",308,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",309,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",310,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",311,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",312,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",313,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",314,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",315,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",316,"Captive","No",0.246364369988441
+"Model2_without_species","Spatial",317,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",318,"Captive","No",0.115854643285275
+"Model2_without_species","Spatial",319,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",320,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",321,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",322,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",323,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",324,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",325,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",326,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",327,"Captive","No",0.217100843787193
+"Model2_without_species","Spatial",328,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",329,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",330,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",331,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",332,"Captive","No",0.222872123122215
+"Model2_without_species","Spatial",333,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",334,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",335,"Captive","No",0.169785723090172
+"Model2_without_species","Spatial",336,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",337,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",338,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",339,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",340,"Captive","No",0.237997010350227
+"Model2_without_species","Spatial",341,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",342,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",343,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",344,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",345,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",346,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",347,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",348,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",349,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",350,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",351,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",352,"Captive","Yes",-1.07833325862885
+"Model2_without_species","Spatial",353,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",354,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",355,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",356,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",357,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",358,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",359,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",360,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",361,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",362,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",363,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",364,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",365,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",366,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",367,"Captive","No",0.115854643285275
+"Model2_without_species","Spatial",368,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",369,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",370,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",371,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",372,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",373,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",374,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",375,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",376,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",377,"Captive","No",0.169785723090172
+"Model2_without_species","Spatial",378,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",379,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",380,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",381,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",382,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",383,"Captive","No",0.103446573019028
+"Model2_without_species","Spatial",384,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",385,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",386,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",387,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",388,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",389,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",390,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",391,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",392,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",393,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",394,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",395,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",396,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",397,"Captive","No",0.0754209458827972
+"Model2_without_species","Spatial",398,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",399,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",400,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",401,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",402,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",403,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",404,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",405,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",406,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",407,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",408,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",409,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",410,"Captive","No",0.0401898622512817
+"Model2_without_species","Spatial",411,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",412,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",413,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",414,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",415,"Captive","Yes",-0.624076247215271
+"Model2_without_species","Spatial",416,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",417,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",418,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",419,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",420,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",421,"Captive","No",-0.0194135569036007
+"Model2_without_species","Spatial",422,"Captive","No",0.222872123122215
+"Model2_without_species","Spatial",423,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",424,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",425,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",426,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",427,"Captive","No",0.222872123122215
+"Model2_without_species","Spatial",428,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",429,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",430,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",431,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",432,"Captive","No",0.221399337053299
+"Model2_without_species","Spatial",433,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",434,"Captive","No",0.063374362885952
+"Model2_without_species","Spatial",435,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",436,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",437,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",438,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",439,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",440,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",441,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",442,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",443,"Captive","No",0.0121496068313718
+"Model2_without_species","Spatial",444,"Captive","Yes",-0.263313740491867
+"Model2_without_species","Spatial",445,"Captive","No",0.0565958321094513
+"Model2_without_species","Spatial",1,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",2,"Interaction type","Spatial proximity",-0.165818959474564
+"Model2_without_species","Spatial",3,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",4,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",5,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",6,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",7,"Interaction type","Physical contact",0.156225606799126
+"Model2_without_species","Spatial",8,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",9,"Interaction type","Social projection bipartite",-0.0472108907997608
+"Model2_without_species","Spatial",10,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",11,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",12,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",13,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",14,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",15,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",16,"Interaction type","Group membership",0.193146407604218
+"Model2_without_species","Spatial",17,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",18,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",19,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",20,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",21,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",22,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",23,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",24,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",25,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",26,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",27,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",28,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",29,"Interaction type","Social projection bipartite",-0.0472108907997608
+"Model2_without_species","Spatial",30,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",31,"Interaction type","Physical contact",0.156225606799126
+"Model2_without_species","Spatial",32,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",33,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",34,"Interaction type","Spatial proximity",-0.100502111017704
+"Model2_without_species","Spatial",35,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",36,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",37,"Interaction type","Social projection bipartite",-0.0372435338795185
+"Model2_without_species","Spatial",38,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",39,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",40,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",41,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",42,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",43,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",44,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",45,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",46,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",47,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",48,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",49,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",50,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",51,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",52,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",53,"Interaction type","Spatial proximity",-0.73569267988205
+"Model2_without_species","Spatial",54,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",55,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",56,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",57,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",58,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",59,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",60,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",61,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",62,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",63,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",64,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",65,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",66,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",67,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",68,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",69,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",70,"Interaction type","Physical contact",0.279874384403229
+"Model2_without_species","Spatial",71,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",72,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",73,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",74,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",75,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",76,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",77,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",78,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",79,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",80,"Interaction type","Spatial proximity",0.137277781963348
+"Model2_without_species","Spatial",81,"Interaction type","Social projection bipartite",-0.0472108907997608
+"Model2_without_species","Spatial",82,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",83,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",84,"Interaction type","Spatial proximity",-0.73569267988205
+"Model2_without_species","Spatial",85,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",86,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",87,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",88,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",89,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",90,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",91,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",92,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",93,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",94,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",95,"Interaction type","Physical contact",0.156225606799126
+"Model2_without_species","Spatial",96,"Interaction type","Dominance",-1.58211958408356
+"Model2_without_species","Spatial",97,"Interaction type","Spatial proximity",0.137277781963348
+"Model2_without_species","Spatial",98,"Interaction type","Spatial proximity",-0.73569267988205
+"Model2_without_species","Spatial",99,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",100,"Interaction type","Physical contact",0.279874384403229
+"Model2_without_species","Spatial",101,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",102,"Interaction type","Social projection bipartite",-0.0372435338795185
+"Model2_without_species","Spatial",103,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",104,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",105,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",106,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",107,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",108,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",109,"Interaction type","Group membership",0.252146929502487
+"Model2_without_species","Spatial",110,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",111,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",112,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",113,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",114,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",115,"Interaction type","Spatial proximity",0.137277781963348
+"Model2_without_species","Spatial",116,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",117,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",118,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",119,"Interaction type","Spatial proximity",-0.73569267988205
+"Model2_without_species","Spatial",120,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",121,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",122,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",123,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",124,"Interaction type","Spatial proximity",-0.73569267988205
+"Model2_without_species","Spatial",125,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",126,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",127,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",128,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",129,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",130,"Interaction type","Spatial proximity",-0.73569267988205
+"Model2_without_species","Spatial",131,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",132,"Interaction type","Group membership",0.307961642742157
+"Model2_without_species","Spatial",133,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",134,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",135,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",136,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",137,"Interaction type","Physical contact",0.279874384403229
+"Model2_without_species","Spatial",138,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",139,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",140,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",141,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",142,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",143,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",144,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",145,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",146,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",147,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",148,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",149,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",150,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",151,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",152,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",153,"Interaction type","Physical contact",0.156225606799126
+"Model2_without_species","Spatial",154,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",155,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",156,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",157,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",158,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",159,"Interaction type","Dominance",-0.867761194705963
+"Model2_without_species","Spatial",160,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",161,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",162,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",163,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",164,"Interaction type","Physical contact",0.156225606799126
+"Model2_without_species","Spatial",165,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",166,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",167,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",168,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",169,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",170,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",171,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",172,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",173,"Interaction type","Social projection bipartite",-0.0372435338795185
+"Model2_without_species","Spatial",174,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",175,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",176,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",177,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",178,"Interaction type","Dominance",-1.3105640411377
+"Model2_without_species","Spatial",179,"Interaction type","Spatial proximity",0.137277781963348
+"Model2_without_species","Spatial",180,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",181,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",182,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",183,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",184,"Interaction type","Dominance",-0.890833854675293
+"Model2_without_species","Spatial",185,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",186,"Interaction type","Social projection bipartite",-0.0372435338795185
+"Model2_without_species","Spatial",187,"Interaction type","Social projection bipartite",-0.0950216352939606
+"Model2_without_species","Spatial",188,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",189,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",190,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",191,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",192,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",193,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",194,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",195,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",196,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",197,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",198,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",199,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",200,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",201,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",202,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",203,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",204,"Interaction type","Spatial proximity",0.137277781963348
+"Model2_without_species","Spatial",205,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",206,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",207,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",208,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",209,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",210,"Interaction type","Spatial proximity",-0.0601368173956871
+"Model2_without_species","Spatial",211,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",212,"Interaction type","Group membership",0.304145157337189
+"Model2_without_species","Spatial",213,"Interaction type","Physical contact",0.156225606799126
+"Model2_without_species","Spatial",214,"Interaction type","Physical contact",0.279874384403229
+"Model2_without_species","Spatial",215,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",216,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",217,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",218,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",219,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",220,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",221,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",222,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",223,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",224,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",225,"Interaction type","Social projection bipartite",-0.0472108907997608
+"Model2_without_species","Spatial",226,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",227,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",228,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",229,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",230,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",231,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",232,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",233,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",234,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",235,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",236,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",237,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",238,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",239,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",240,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",241,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",242,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",243,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",244,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",245,"Interaction type","Spatial proximity",-0.0601368173956871
+"Model2_without_species","Spatial",246,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",247,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",248,"Interaction type","Spatial proximity",-0.73569267988205
+"Model2_without_species","Spatial",249,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",250,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",251,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",252,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",253,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",254,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",255,"Interaction type","Social projection bipartite",-0.0472108907997608
+"Model2_without_species","Spatial",256,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",257,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",258,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",259,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",260,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",261,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",262,"Interaction type","Social projection bipartite",-0.0372435338795185
+"Model2_without_species","Spatial",263,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",264,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",265,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",266,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",267,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",268,"Interaction type","Spatial proximity",-0.73569267988205
+"Model2_without_species","Spatial",269,"Interaction type","Spatial proximity",0.137277781963348
+"Model2_without_species","Spatial",270,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",271,"Interaction type","Spatial proximity",-0.102612219750881
+"Model2_without_species","Spatial",272,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",273,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",274,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",275,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",276,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",277,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",278,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",279,"Interaction type","Group membership",0.190851911902428
+"Model2_without_species","Spatial",280,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",281,"Interaction type","Physical contact",0.269074231386185
+"Model2_without_species","Spatial",282,"Interaction type","Group membership",0.193146407604218
+"Model2_without_species","Spatial",283,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",284,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",285,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",286,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",287,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",288,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",289,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",290,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",291,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",292,"Interaction type","Physical contact",0.156225606799126
+"Model2_without_species","Spatial",293,"Interaction type","Social projection bipartite",-0.0472108907997608
+"Model2_without_species","Spatial",294,"Interaction type","Physical contact",0.156225606799126
+"Model2_without_species","Spatial",295,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",296,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",297,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",298,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",299,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",300,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",301,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",302,"Interaction type","Group membership",0.307961642742157
+"Model2_without_species","Spatial",303,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",304,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",305,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",306,"Interaction type","Physical contact",0.156225606799126
+"Model2_without_species","Spatial",307,"Interaction type","Dominance",-1.58211958408356
+"Model2_without_species","Spatial",308,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",309,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",310,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",311,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",312,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",313,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",314,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",315,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",316,"Interaction type","Group membership",0.307961642742157
+"Model2_without_species","Spatial",317,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",318,"Interaction type","Social projection bipartite",-0.0472108907997608
+"Model2_without_species","Spatial",319,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",320,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",321,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",322,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",323,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",324,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",325,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",326,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",327,"Interaction type","Spatial proximity",-0.102612219750881
+"Model2_without_species","Spatial",328,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",329,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",330,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",331,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",332,"Interaction type","Spatial proximity",0.137277781963348
+"Model2_without_species","Spatial",333,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",334,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",335,"Interaction type","Social projection bipartite",-0.0372435338795185
+"Model2_without_species","Spatial",336,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",337,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",338,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",339,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",340,"Interaction type","Spatial proximity",-0.0601368173956871
+"Model2_without_species","Spatial",341,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",342,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",343,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",344,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",345,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",346,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",347,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",348,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",349,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",350,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",351,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",352,"Interaction type","Spatial proximity",-0.73569267988205
+"Model2_without_species","Spatial",353,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",354,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",355,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",356,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",357,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",358,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",359,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",360,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",361,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",362,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",363,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",364,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",365,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",366,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",367,"Interaction type","Social projection bipartite",-0.0472108907997608
+"Model2_without_species","Spatial",368,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",369,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",370,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",371,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",372,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",373,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",374,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",375,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",376,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",377,"Interaction type","Social projection bipartite",-0.0372435338795185
+"Model2_without_species","Spatial",378,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",379,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",380,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",381,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",382,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",383,"Interaction type","Social projection bipartite",-0.136928498744965
+"Model2_without_species","Spatial",384,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",385,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",386,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",387,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",388,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",389,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",390,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",391,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",392,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",393,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",394,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",395,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",396,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",397,"Interaction type","Spatial proximity",-0.0636018514633179
+"Model2_without_species","Spatial",398,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",399,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",400,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",401,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",402,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",403,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",404,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",405,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",406,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",407,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",408,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",409,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",410,"Interaction type","Grooming",0.0515434369444847
+"Model2_without_species","Spatial",411,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",412,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",413,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",414,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",415,"Interaction type","Physical contact",0.279874384403229
+"Model2_without_species","Spatial",416,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",417,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",418,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",419,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",420,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",421,"Interaction type","Dominance",-1.13420581817627
+"Model2_without_species","Spatial",422,"Interaction type","Spatial proximity",0.137277781963348
+"Model2_without_species","Spatial",423,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",424,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",425,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",426,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",427,"Interaction type","Spatial proximity",0.137277781963348
+"Model2_without_species","Spatial",428,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",429,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",430,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",431,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",432,"Interaction type","Group membership",0.190851911902428
+"Model2_without_species","Spatial",433,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",434,"Interaction type","Spatial proximity",-0.278011709451675
+"Model2_without_species","Spatial",435,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",436,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",437,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",438,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",439,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",440,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",441,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",442,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",443,"Interaction type","Social projection bipartite",-0.166058361530304
+"Model2_without_species","Spatial",444,"Interaction type","Physical contact",0.375397711992264
+"Model2_without_species","Spatial",445,"Interaction type","Spatial proximity",-0.324930101633072
+"Model2_without_species","Spatial",1,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",2,"Data collection","survey scan",-0.374254554510117
+"Model2_without_species","Spatial",3,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",4,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",5,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",6,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",7,"Data collection","video",0.0491118393838406
+"Model2_without_species","Spatial",8,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",9,"Data collection","mark recapture",-0.121932610869408
+"Model2_without_species","Spatial",10,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",11,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",12,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",13,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",14,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",15,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",16,"Data collection","survey scan",-0.178660914301872
+"Model2_without_species","Spatial",17,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",18,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",19,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",20,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",21,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",22,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",23,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",24,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",25,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",26,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",27,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",28,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",29,"Data collection","mark recapture",-0.121932610869408
+"Model2_without_species","Spatial",30,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",31,"Data collection","video",0.0491118393838406
+"Model2_without_species","Spatial",32,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",33,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",34,"Data collection","survey scan",0.5008584856987
+"Model2_without_species","Spatial",35,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",36,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",37,"Data collection","RFID",0.616006851196289
+"Model2_without_species","Spatial",38,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",39,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",40,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",41,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",42,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",43,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",44,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",45,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",46,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",47,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",48,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",49,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",50,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",51,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",52,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",53,"Data collection","survey scan",-0.734524130821228
+"Model2_without_species","Spatial",54,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",55,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",56,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",57,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",58,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",59,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",60,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",61,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",62,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",63,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",64,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",65,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",66,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",67,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",68,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",69,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",70,"Data collection","video",0.175951361656189
+"Model2_without_species","Spatial",71,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",72,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",73,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",74,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",75,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",76,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",77,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",78,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",79,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",80,"Data collection","RFID",1.03620171546936
+"Model2_without_species","Spatial",81,"Data collection","mark recapture",-0.121932610869408
+"Model2_without_species","Spatial",82,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",83,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",84,"Data collection","survey scan",-0.734524130821228
+"Model2_without_species","Spatial",85,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",86,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",87,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",88,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",89,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",90,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",91,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",92,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",93,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",94,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",95,"Data collection","video",0.0491118393838406
+"Model2_without_species","Spatial",96,"Data collection","survey scan",-0.0184470992535353
+"Model2_without_species","Spatial",97,"Data collection","RFID",1.03620171546936
+"Model2_without_species","Spatial",98,"Data collection","survey scan",-0.734524130821228
+"Model2_without_species","Spatial",99,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",100,"Data collection","video",0.175951361656189
+"Model2_without_species","Spatial",101,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",102,"Data collection","RFID",0.616006851196289
+"Model2_without_species","Spatial",103,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",104,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",105,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",106,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",107,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",108,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",109,"Data collection","survey scan",0.2478197067976
+"Model2_without_species","Spatial",110,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",111,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",112,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",113,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",114,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",115,"Data collection","RFID",1.03620171546936
+"Model2_without_species","Spatial",116,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",117,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",118,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",119,"Data collection","survey scan",-0.734524130821228
+"Model2_without_species","Spatial",120,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",121,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",122,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",123,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",124,"Data collection","survey scan",-0.734524130821228
+"Model2_without_species","Spatial",125,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",126,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",127,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",128,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",129,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",130,"Data collection","survey scan",-0.734524130821228
+"Model2_without_species","Spatial",131,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",132,"Data collection","survey scan",0.436975002288818
+"Model2_without_species","Spatial",133,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",134,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",135,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",136,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",137,"Data collection","video",0.175951361656189
+"Model2_without_species","Spatial",138,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",139,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",140,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",141,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",142,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",143,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",144,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",145,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",146,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",147,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",148,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",149,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",150,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",151,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",152,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",153,"Data collection","video",0.0491118393838406
+"Model2_without_species","Spatial",154,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",155,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",156,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",157,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",158,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",159,"Data collection","direct observation",-0.463778674602509
+"Model2_without_species","Spatial",160,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",161,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",162,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",163,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",164,"Data collection","video",0.0491118393838406
+"Model2_without_species","Spatial",165,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",166,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",167,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",168,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",169,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",170,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",171,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",172,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",173,"Data collection","RFID",0.616006851196289
+"Model2_without_species","Spatial",174,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",175,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",176,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",177,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",178,"Data collection","survey scan",-0.228837832808495
+"Model2_without_species","Spatial",179,"Data collection","RFID",1.03620171546936
+"Model2_without_species","Spatial",180,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",181,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",182,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",183,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",184,"Data collection","focal sampling",-0.174628421664238
+"Model2_without_species","Spatial",185,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",186,"Data collection","RFID",0.616006851196289
+"Model2_without_species","Spatial",187,"Data collection","RFID",0.472147047519684
+"Model2_without_species","Spatial",188,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",189,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",190,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",191,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",192,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",193,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",194,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",195,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",196,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",197,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",198,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",199,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",200,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",201,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",202,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",203,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",204,"Data collection","RFID",1.03620171546936
+"Model2_without_species","Spatial",205,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",206,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",207,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",208,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",209,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",210,"Data collection","survey scan",0.213415831327438
+"Model2_without_species","Spatial",211,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",212,"Data collection","survey scan",-0.164098918437958
+"Model2_without_species","Spatial",213,"Data collection","video",0.0491118393838406
+"Model2_without_species","Spatial",214,"Data collection","video",0.175951361656189
+"Model2_without_species","Spatial",215,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",216,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",217,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",218,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",219,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",220,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",221,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",222,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",223,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",224,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",225,"Data collection","mark recapture",-0.121932610869408
+"Model2_without_species","Spatial",226,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",227,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",228,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",229,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",230,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",231,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",232,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",233,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",234,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",235,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",236,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",237,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",238,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",239,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",240,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",241,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",242,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",243,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",244,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",245,"Data collection","survey scan",0.213415831327438
+"Model2_without_species","Spatial",246,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",247,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",248,"Data collection","survey scan",-0.734524130821228
+"Model2_without_species","Spatial",249,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",250,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",251,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",252,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",253,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",254,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",255,"Data collection","mark recapture",-0.121932610869408
+"Model2_without_species","Spatial",256,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",257,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",258,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",259,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",260,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",261,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",262,"Data collection","RFID",0.616006851196289
+"Model2_without_species","Spatial",263,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",264,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",265,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",266,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",267,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",268,"Data collection","survey scan",-0.734524130821228
+"Model2_without_species","Spatial",269,"Data collection","RFID",1.03620171546936
+"Model2_without_species","Spatial",270,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",271,"Data collection","RFID",1.11852443218231
+"Model2_without_species","Spatial",272,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",273,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",274,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",275,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",276,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",277,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",278,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",279,"Data collection","survey scan",-0.232808545231819
+"Model2_without_species","Spatial",280,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",281,"Data collection","focal sampling",-0.179480478167534
+"Model2_without_species","Spatial",282,"Data collection","survey scan",-0.178660914301872
+"Model2_without_species","Spatial",283,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",284,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",285,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",286,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",287,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",288,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",289,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",290,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",291,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",292,"Data collection","video",0.0491118393838406
+"Model2_without_species","Spatial",293,"Data collection","mark recapture",-0.121932610869408
+"Model2_without_species","Spatial",294,"Data collection","video",0.0491118393838406
+"Model2_without_species","Spatial",295,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",296,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",297,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",298,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",299,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",300,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",301,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",302,"Data collection","survey scan",0.436975002288818
+"Model2_without_species","Spatial",303,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",304,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",305,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",306,"Data collection","video",0.0491118393838406
+"Model2_without_species","Spatial",307,"Data collection","survey scan",-0.0184470992535353
+"Model2_without_species","Spatial",308,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",309,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",310,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",311,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",312,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",313,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",314,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",315,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",316,"Data collection","survey scan",0.436975002288818
+"Model2_without_species","Spatial",317,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",318,"Data collection","mark recapture",-0.121932610869408
+"Model2_without_species","Spatial",319,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",320,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",321,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",322,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",323,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",324,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",325,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",326,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",327,"Data collection","RFID",1.11852443218231
+"Model2_without_species","Spatial",328,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",329,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",330,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",331,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",332,"Data collection","RFID",1.03620171546936
+"Model2_without_species","Spatial",333,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",334,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",335,"Data collection","RFID",0.616006851196289
+"Model2_without_species","Spatial",336,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",337,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",338,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",339,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",340,"Data collection","survey scan",0.213415831327438
+"Model2_without_species","Spatial",341,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",342,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",343,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",344,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",345,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",346,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",347,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",348,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",349,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",350,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",351,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",352,"Data collection","survey scan",-0.734524130821228
+"Model2_without_species","Spatial",353,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",354,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",355,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",356,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",357,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",358,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",359,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",360,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",361,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",362,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",363,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",364,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",365,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",366,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",367,"Data collection","mark recapture",-0.121932610869408
+"Model2_without_species","Spatial",368,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",369,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",370,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",371,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",372,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",373,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",374,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",375,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",376,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",377,"Data collection","RFID",0.616006851196289
+"Model2_without_species","Spatial",378,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",379,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",380,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",381,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",382,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",383,"Data collection","RFID",0.239746674895287
+"Model2_without_species","Spatial",384,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",385,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",386,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",387,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",388,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",389,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",390,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",391,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",392,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",393,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",394,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",395,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",396,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",397,"Data collection","logger",-0.248566195368767
+"Model2_without_species","Spatial",398,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",399,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",400,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",401,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",402,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",403,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",404,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",405,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",406,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",407,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",408,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",409,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",410,"Data collection","focal sampling",-0.375780999660492
+"Model2_without_species","Spatial",411,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",412,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",413,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",414,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",415,"Data collection","video",0.175951361656189
+"Model2_without_species","Spatial",416,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",417,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",418,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",419,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",420,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",421,"Data collection","focal sampling",-0.167904123663902
+"Model2_without_species","Spatial",422,"Data collection","RFID",1.03620171546936
+"Model2_without_species","Spatial",423,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",424,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",425,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",426,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",427,"Data collection","RFID",1.03620171546936
+"Model2_without_species","Spatial",428,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",429,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",430,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",431,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",432,"Data collection","survey scan",-0.232808545231819
+"Model2_without_species","Spatial",433,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",434,"Data collection","focal sampling",-0.386427104473114
+"Model2_without_species","Spatial",435,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",436,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",437,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",438,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",439,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",440,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",441,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",442,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",443,"Data collection","mark recapture",-0.370173513889313
+"Model2_without_species","Spatial",444,"Data collection","video",0.387780964374542
+"Model2_without_species","Spatial",445,"Data collection","logger",-0.426908761262894
+"Model2_without_species","Spatial",1,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",2,"Data duration (days)","594",0.0426793992519379
+"Model2_without_species","Spatial",3,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",4,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",5,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",6,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",7,"Data duration (days)","0.020833",-2.86828565597534
+"Model2_without_species","Spatial",8,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",9,"Data duration (days)","300",0.203420355916023
+"Model2_without_species","Spatial",10,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",11,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",12,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",13,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",14,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",15,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",16,"Data duration (days)","90",0.0275633372366428
+"Model2_without_species","Spatial",17,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",18,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",19,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",20,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",21,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",22,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",23,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",24,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",25,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",26,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",27,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",28,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",29,"Data duration (days)","300",0.203420355916023
+"Model2_without_species","Spatial",30,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",31,"Data duration (days)","0.020833",-2.86828565597534
+"Model2_without_species","Spatial",32,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",33,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",34,"Data duration (days)","53.202856815371",0.70979905128479
+"Model2_without_species","Spatial",35,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",36,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",37,"Data duration (days)","6",0.391015201807022
+"Model2_without_species","Spatial",38,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",39,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",40,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",41,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",42,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",43,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",44,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",45,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",46,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",47,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",48,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",49,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",50,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",51,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",52,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",53,"Data duration (days)","12",-0.616578459739685
+"Model2_without_species","Spatial",54,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",55,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",56,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",57,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",58,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",59,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",60,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",61,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",62,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",63,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",64,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",65,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",66,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",67,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",68,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",69,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",70,"Data duration (days)","41",-0.750812113285065
+"Model2_without_species","Spatial",71,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",72,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",73,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",74,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",75,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",76,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",77,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",78,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",79,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",80,"Data duration (days)","90",0.618983149528503
+"Model2_without_species","Spatial",81,"Data duration (days)","300",0.203420355916023
+"Model2_without_species","Spatial",82,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",83,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",84,"Data duration (days)","12",-0.616578459739685
+"Model2_without_species","Spatial",85,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",86,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",87,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",88,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",89,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",90,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",91,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",92,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",93,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",94,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",95,"Data duration (days)","0.1667",-2.86828565597534
+"Model2_without_species","Spatial",96,"Data duration (days)","69",0.115319311618805
+"Model2_without_species","Spatial",97,"Data duration (days)","90",0.618983149528503
+"Model2_without_species","Spatial",98,"Data duration (days)","12",-0.616578459739685
+"Model2_without_species","Spatial",99,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",100,"Data duration (days)","41",-0.750812113285065
+"Model2_without_species","Spatial",101,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",102,"Data duration (days)","6",0.391015201807022
+"Model2_without_species","Spatial",103,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",104,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",105,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",106,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",107,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",108,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",109,"Data duration (days)","90",0.270822137594223
+"Model2_without_species","Spatial",110,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",111,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",112,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",113,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",114,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",115,"Data duration (days)","90",0.618983149528503
+"Model2_without_species","Spatial",116,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",117,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",118,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",119,"Data duration (days)","12",-0.616578459739685
+"Model2_without_species","Spatial",120,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",121,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",122,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",123,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",124,"Data duration (days)","12",-0.616578459739685
+"Model2_without_species","Spatial",125,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",126,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",127,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",128,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",129,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",130,"Data duration (days)","12",-0.616578459739685
+"Model2_without_species","Spatial",131,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",132,"Data duration (days)","64",0.571245908737183
+"Model2_without_species","Spatial",133,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",134,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",135,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",136,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",137,"Data duration (days)","41",-0.750812113285065
+"Model2_without_species","Spatial",138,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",139,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",140,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",141,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",142,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",143,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",144,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",145,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",146,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",147,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",148,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",149,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",150,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",151,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",152,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",153,"Data duration (days)","0.020833",-2.86828565597534
+"Model2_without_species","Spatial",154,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",155,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",156,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",157,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",158,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",159,"Data duration (days)","11",-0.393017053604126
+"Model2_without_species","Spatial",160,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",161,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",162,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",163,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",164,"Data duration (days)","0.020833",-2.86828565597534
+"Model2_without_species","Spatial",165,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",166,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",167,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",168,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",169,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",170,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",171,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",172,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",173,"Data duration (days)","6",0.391015201807022
+"Model2_without_species","Spatial",174,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",175,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",176,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",177,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",178,"Data duration (days)","79.5507935236642",0.0471302419900894
+"Model2_without_species","Spatial",179,"Data duration (days)","90",0.618983149528503
+"Model2_without_species","Spatial",180,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",181,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",182,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",183,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",184,"Data duration (days)","450",0.704958200454712
+"Model2_without_species","Spatial",185,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",186,"Data duration (days)","6",0.391015201807022
+"Model2_without_species","Spatial",187,"Data duration (days)","365",0.355895966291428
+"Model2_without_species","Spatial",188,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",189,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",190,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",191,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",192,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",193,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",194,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",195,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",196,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",197,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",198,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",199,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",200,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",201,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",202,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",203,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",204,"Data duration (days)","90",0.618983149528503
+"Model2_without_species","Spatial",205,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",206,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",207,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",208,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",209,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",210,"Data duration (days)","124",0.468069583177567
+"Model2_without_species","Spatial",211,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",212,"Data duration (days)","180",-0.593287229537964
+"Model2_without_species","Spatial",213,"Data duration (days)","0.020833",-2.86828565597534
+"Model2_without_species","Spatial",214,"Data duration (days)","41",-0.750812113285065
+"Model2_without_species","Spatial",215,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",216,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",217,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",218,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",219,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",220,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",221,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",222,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",223,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",224,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",225,"Data duration (days)","300",0.203420355916023
+"Model2_without_species","Spatial",226,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",227,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",228,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",229,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",230,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",231,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",232,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",233,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",234,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",235,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",236,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",237,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",238,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",239,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",240,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",241,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",242,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",243,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",244,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",245,"Data duration (days)","124",0.468069583177567
+"Model2_without_species","Spatial",246,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",247,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",248,"Data duration (days)","12",-0.616578459739685
+"Model2_without_species","Spatial",249,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",250,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",251,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",252,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",253,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",254,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",255,"Data duration (days)","300",0.203420355916023
+"Model2_without_species","Spatial",256,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",257,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",258,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",259,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",260,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",261,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",262,"Data duration (days)","6",0.391015201807022
+"Model2_without_species","Spatial",263,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",264,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",265,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",266,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",267,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",268,"Data duration (days)","12",-0.616578459739685
+"Model2_without_species","Spatial",269,"Data duration (days)","90",0.618983149528503
+"Model2_without_species","Spatial",270,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",271,"Data duration (days)","12",0.0231393370777369
+"Model2_without_species","Spatial",272,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",273,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",274,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",275,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",276,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",277,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",278,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",279,"Data duration (days)","120",-0.00403252150863409
+"Model2_without_species","Spatial",280,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",281,"Data duration (days)","730",0.682666599750519
+"Model2_without_species","Spatial",282,"Data duration (days)","90",0.0275633372366428
+"Model2_without_species","Spatial",283,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",284,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",285,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",286,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",287,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",288,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",289,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",290,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",291,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",292,"Data duration (days)","0.020833",-2.86828565597534
+"Model2_without_species","Spatial",293,"Data duration (days)","300",0.203420355916023
+"Model2_without_species","Spatial",294,"Data duration (days)","0.020833",-2.86828565597534
+"Model2_without_species","Spatial",295,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",296,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",297,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",298,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",299,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",300,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",301,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",302,"Data duration (days)","64",0.571245908737183
+"Model2_without_species","Spatial",303,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",304,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",305,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",306,"Data duration (days)","0.020833",-2.86828565597534
+"Model2_without_species","Spatial",307,"Data duration (days)","69",0.115319311618805
+"Model2_without_species","Spatial",308,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",309,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",310,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",311,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",312,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",313,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",314,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",315,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",316,"Data duration (days)","64",0.571245908737183
+"Model2_without_species","Spatial",317,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",318,"Data duration (days)","300",0.203420355916023
+"Model2_without_species","Spatial",319,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",320,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",321,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",322,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",323,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",324,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",325,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",326,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",327,"Data duration (days)","12",0.0231393370777369
+"Model2_without_species","Spatial",328,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",329,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",330,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",331,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",332,"Data duration (days)","90",0.618983149528503
+"Model2_without_species","Spatial",333,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",334,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",335,"Data duration (days)","6",0.391015201807022
+"Model2_without_species","Spatial",336,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",337,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",338,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",339,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",340,"Data duration (days)","124",0.468069583177567
+"Model2_without_species","Spatial",341,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",342,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",343,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",344,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",345,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",346,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",347,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",348,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",349,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",350,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",351,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",352,"Data duration (days)","12",-0.616578459739685
+"Model2_without_species","Spatial",353,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",354,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",355,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",356,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",357,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",358,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",359,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",360,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",361,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",362,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",363,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",364,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",365,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",366,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",367,"Data duration (days)","300",0.203420355916023
+"Model2_without_species","Spatial",368,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",369,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",370,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",371,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",372,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",373,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",374,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",375,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",376,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",377,"Data duration (days)","6",0.391015201807022
+"Model2_without_species","Spatial",378,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",379,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",380,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",381,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",382,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",383,"Data duration (days)","284",-0.183417856693268
+"Model2_without_species","Spatial",384,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",385,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",386,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",387,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",388,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",389,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",390,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",391,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",392,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",393,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",394,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",395,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",396,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",397,"Data duration (days)","120",0.51517790555954
+"Model2_without_species","Spatial",398,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",399,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",400,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",401,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",402,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",403,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",404,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",405,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",406,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",407,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",408,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",409,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",410,"Data duration (days)","90",0.15243211388588
+"Model2_without_species","Spatial",411,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",412,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",413,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",414,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",415,"Data duration (days)","41",-0.750812113285065
+"Model2_without_species","Spatial",416,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",417,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",418,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",419,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",420,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",421,"Data duration (days)","206",-0.265511631965637
+"Model2_without_species","Spatial",422,"Data duration (days)","90",0.618983149528503
+"Model2_without_species","Spatial",423,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",424,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",425,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",426,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",427,"Data duration (days)","90",0.618983149528503
+"Model2_without_species","Spatial",428,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",429,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",430,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",431,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",432,"Data duration (days)","120",-0.00403252150863409
+"Model2_without_species","Spatial",433,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",434,"Data duration (days)","30",-0.246781021356583
+"Model2_without_species","Spatial",435,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",436,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",437,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",438,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",439,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",440,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",441,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",442,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",443,"Data duration (days)","6",-0.0609994605183601
+"Model2_without_species","Spatial",444,"Data duration (days)","1",0.623143076896667
+"Model2_without_species","Spatial",445,"Data duration (days)","7",-0.237733885645866
+"Model2_without_species","Spatial",1,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",2,"Class","Mammalia",0.0925985127687454
+"Model2_without_species","Spatial",3,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",4,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",5,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",6,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",7,"Class","Insecta",-0.0891540721058846
+"Model2_without_species","Spatial",8,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",9,"Class","Aves",0.31972000002861
+"Model2_without_species","Spatial",10,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",11,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",12,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",13,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",14,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",15,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",16,"Class","Aves",-0.11749329417944
+"Model2_without_species","Spatial",17,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",18,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",19,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",20,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",21,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",22,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",23,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",24,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",25,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",26,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",27,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",28,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",29,"Class","Aves",0.31972000002861
+"Model2_without_species","Spatial",30,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",31,"Class","Insecta",-0.0891540721058846
+"Model2_without_species","Spatial",32,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",33,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",34,"Class","Mammalia",0.250550299882889
+"Model2_without_species","Spatial",35,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",36,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",37,"Class","Aves",0.359560340642929
+"Model2_without_species","Spatial",38,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",39,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",40,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",41,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",42,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",43,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",44,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",45,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",46,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",47,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",48,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",49,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",50,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",51,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",52,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",53,"Class","Insecta",-0.360785335302353
+"Model2_without_species","Spatial",54,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",55,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",56,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",57,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",58,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",59,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",60,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",61,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",62,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",63,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",64,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",65,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",66,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",67,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",68,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",69,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",70,"Class","Insecta",-0.0649772137403488
+"Model2_without_species","Spatial",71,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",72,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",73,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",74,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",75,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",76,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",77,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",78,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",79,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",80,"Class","Mammalia",0.282037049531937
+"Model2_without_species","Spatial",81,"Class","Aves",0.31972000002861
+"Model2_without_species","Spatial",82,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",83,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",84,"Class","Insecta",-0.360785335302353
+"Model2_without_species","Spatial",85,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",86,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",87,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",88,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",89,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",90,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",91,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",92,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",93,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",94,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",95,"Class","Insecta",-0.0891540721058846
+"Model2_without_species","Spatial",96,"Class","Mammalia",0.0373659953474998
+"Model2_without_species","Spatial",97,"Class","Mammalia",0.282037049531937
+"Model2_without_species","Spatial",98,"Class","Insecta",-0.360785335302353
+"Model2_without_species","Spatial",99,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",100,"Class","Insecta",-0.0649772137403488
+"Model2_without_species","Spatial",101,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",102,"Class","Aves",0.359560340642929
+"Model2_without_species","Spatial",103,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",104,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",105,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",106,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",107,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",108,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",109,"Class","Mammalia",0.140826046466827
+"Model2_without_species","Spatial",110,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",111,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",112,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",113,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",114,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",115,"Class","Mammalia",0.282037049531937
+"Model2_without_species","Spatial",116,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",117,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",118,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",119,"Class","Insecta",-0.360785335302353
+"Model2_without_species","Spatial",120,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",121,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",122,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",123,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",124,"Class","Insecta",-0.360785335302353
+"Model2_without_species","Spatial",125,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",126,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",127,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",128,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",129,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",130,"Class","Insecta",-0.360785335302353
+"Model2_without_species","Spatial",131,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",132,"Class","Mammalia",0.161873936653137
+"Model2_without_species","Spatial",133,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",134,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",135,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",136,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",137,"Class","Insecta",-0.0649772137403488
+"Model2_without_species","Spatial",138,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",139,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",140,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",141,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",142,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",143,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",144,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",145,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",146,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",147,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",148,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",149,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",150,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",151,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",152,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",153,"Class","Insecta",-0.0891540721058846
+"Model2_without_species","Spatial",154,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",155,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",156,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",157,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",158,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",159,"Class","Aves",0.141485899686813
+"Model2_without_species","Spatial",160,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",161,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",162,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",163,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",164,"Class","Insecta",-0.0891540721058846
+"Model2_without_species","Spatial",165,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",166,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",167,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",168,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",169,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",170,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",171,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",172,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",173,"Class","Aves",0.359560340642929
+"Model2_without_species","Spatial",174,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",175,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",176,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",177,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",178,"Class","Mammalia",0.0752313211560249
+"Model2_without_species","Spatial",179,"Class","Mammalia",0.282037049531937
+"Model2_without_species","Spatial",180,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",181,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",182,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",183,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",184,"Class","Mammalia",-0.0359718725085258
+"Model2_without_species","Spatial",185,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",186,"Class","Aves",0.359560340642929
+"Model2_without_species","Spatial",187,"Class","Mammalia",0.0785627737641335
+"Model2_without_species","Spatial",188,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",189,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",190,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",191,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",192,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",193,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",194,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",195,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",196,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",197,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",198,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",199,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",200,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",201,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",202,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",203,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",204,"Class","Mammalia",0.282037049531937
+"Model2_without_species","Spatial",205,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",206,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",207,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",208,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",209,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",210,"Class","Mammalia",0.230820462107658
+"Model2_without_species","Spatial",211,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",212,"Class","Mammalia",0.0103825964033604
+"Model2_without_species","Spatial",213,"Class","Insecta",-0.0891540721058846
+"Model2_without_species","Spatial",214,"Class","Insecta",-0.0649772137403488
+"Model2_without_species","Spatial",215,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",216,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",217,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",218,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",219,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",220,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",221,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",222,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",223,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",224,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",225,"Class","Aves",0.31972000002861
+"Model2_without_species","Spatial",226,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",227,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",228,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",229,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",230,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",231,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",232,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",233,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",234,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",235,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",236,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",237,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",238,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",239,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",240,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",241,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",242,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",243,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",244,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",245,"Class","Mammalia",0.230820462107658
+"Model2_without_species","Spatial",246,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",247,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",248,"Class","Insecta",-0.360785335302353
+"Model2_without_species","Spatial",249,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",250,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",251,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",252,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",253,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",254,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",255,"Class","Aves",0.31972000002861
+"Model2_without_species","Spatial",256,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",257,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",258,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",259,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",260,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",261,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",262,"Class","Aves",0.359560340642929
+"Model2_without_species","Spatial",263,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",264,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",265,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",266,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",267,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",268,"Class","Insecta",-0.360785335302353
+"Model2_without_species","Spatial",269,"Class","Mammalia",0.282037049531937
+"Model2_without_species","Spatial",270,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",271,"Class","Mammalia",0.198261097073555
+"Model2_without_species","Spatial",272,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",273,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",274,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",275,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",276,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",277,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",278,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",279,"Class","Aves",-0.130790263414383
+"Model2_without_species","Spatial",280,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",281,"Class","Mammalia",-0.0593825317919254
+"Model2_without_species","Spatial",282,"Class","Aves",-0.11749329417944
+"Model2_without_species","Spatial",283,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",284,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",285,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",286,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",287,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",288,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",289,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",290,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",291,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",292,"Class","Insecta",-0.0891540721058846
+"Model2_without_species","Spatial",293,"Class","Aves",0.31972000002861
+"Model2_without_species","Spatial",294,"Class","Insecta",-0.0891540721058846
+"Model2_without_species","Spatial",295,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",296,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",297,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",298,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",299,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",300,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",301,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",302,"Class","Mammalia",0.161873936653137
+"Model2_without_species","Spatial",303,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",304,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",305,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",306,"Class","Insecta",-0.0891540721058846
+"Model2_without_species","Spatial",307,"Class","Mammalia",0.0373659953474998
+"Model2_without_species","Spatial",308,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",309,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",310,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",311,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",312,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",313,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",314,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",315,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",316,"Class","Mammalia",0.161873936653137
+"Model2_without_species","Spatial",317,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",318,"Class","Aves",0.31972000002861
+"Model2_without_species","Spatial",319,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",320,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",321,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",322,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",323,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",324,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",325,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",326,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",327,"Class","Mammalia",0.198261097073555
+"Model2_without_species","Spatial",328,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",329,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",330,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",331,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",332,"Class","Mammalia",0.282037049531937
+"Model2_without_species","Spatial",333,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",334,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",335,"Class","Aves",0.359560340642929
+"Model2_without_species","Spatial",336,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",337,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",338,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",339,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",340,"Class","Mammalia",0.230820462107658
+"Model2_without_species","Spatial",341,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",342,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",343,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",344,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",345,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",346,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",347,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",348,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",349,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",350,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",351,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",352,"Class","Insecta",-0.360785335302353
+"Model2_without_species","Spatial",353,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",354,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",355,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",356,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",357,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",358,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",359,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",360,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",361,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",362,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",363,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",364,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",365,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",366,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",367,"Class","Aves",0.31972000002861
+"Model2_without_species","Spatial",368,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",369,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",370,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",371,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",372,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",373,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",374,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",375,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",376,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",377,"Class","Aves",0.359560340642929
+"Model2_without_species","Spatial",378,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",379,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",380,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",381,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",382,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",383,"Class","Reptilia",-0.0911341309547424
+"Model2_without_species","Spatial",384,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",385,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",386,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",387,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",388,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",389,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",390,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",391,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",392,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",393,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",394,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",395,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",396,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",397,"Class","Reptilia",0.0742683708667755
+"Model2_without_species","Spatial",398,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",399,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",400,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",401,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",402,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",403,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",404,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",405,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",406,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",407,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",408,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",409,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",410,"Class","Mammalia",-0.0544709898531437
+"Model2_without_species","Spatial",411,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",412,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",413,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",414,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",415,"Class","Insecta",-0.0649772137403488
+"Model2_without_species","Spatial",416,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",417,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",418,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",419,"Class","Mammalia",-0.0894083604216576
+"Model2_without_species","Spatial",420,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",421,"Class","Mammalia",-0.114051461219788
+"Model2_without_species","Spatial",422,"Class","Mammalia",0.282037049531937
+"Model2_without_species","Spatial",423,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",424,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",425,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",426,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",427,"Class","Mammalia",0.282037049531937
+"Model2_without_species","Spatial",428,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",429,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",430,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",431,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",432,"Class","Aves",-0.130790263414383
+"Model2_without_species","Spatial",433,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",434,"Class","Mammalia",-0.0452270396053791
+"Model2_without_species","Spatial",435,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",436,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",437,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",438,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",439,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",440,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",441,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",442,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",443,"Class","Mammalia",-0.167408034205437
+"Model2_without_species","Spatial",444,"Class","Insecta",0.10160743445158
+"Model2_without_species","Spatial",445,"Class","Mammalia",-0.0894083604216576

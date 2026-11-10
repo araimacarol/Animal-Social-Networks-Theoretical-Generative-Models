@@ -1,0 +1,2226 @@
+"model","class","network","feature","level","shap_logodds"
+"Model2_without_species","Scale-Free",1,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",2,"Captive","No",0.018565084785223
+"Model2_without_species","Scale-Free",3,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",4,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",5,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",6,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",7,"Captive","Yes",0.105405673384666
+"Model2_without_species","Scale-Free",8,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",9,"Captive","No",0.120392486453056
+"Model2_without_species","Scale-Free",10,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",11,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",12,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",13,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",14,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",15,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",16,"Captive","No",0.191842719912529
+"Model2_without_species","Scale-Free",17,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",18,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",19,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",20,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",21,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",22,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",23,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",24,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",25,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",26,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",27,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",28,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",29,"Captive","No",0.120392486453056
+"Model2_without_species","Scale-Free",30,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",31,"Captive","Yes",0.105405673384666
+"Model2_without_species","Scale-Free",32,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",33,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",34,"Captive","No",-0.0143868001177907
+"Model2_without_species","Scale-Free",35,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",36,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",37,"Captive","No",0.00623399345204234
+"Model2_without_species","Scale-Free",38,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",39,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",40,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",41,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",42,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",43,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",44,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",45,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",46,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",47,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",48,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",49,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",50,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",51,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",52,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",53,"Captive","Yes",0.254710078239441
+"Model2_without_species","Scale-Free",54,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",55,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",56,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",57,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",58,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",59,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",60,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",61,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",62,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",63,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",64,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",65,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",66,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",67,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",68,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",69,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",70,"Captive","Yes",-0.100088708102703
+"Model2_without_species","Scale-Free",71,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",72,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",73,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",74,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",75,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",76,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",77,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",78,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",79,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",80,"Captive","No",0.0241859257221222
+"Model2_without_species","Scale-Free",81,"Captive","No",0.120392486453056
+"Model2_without_species","Scale-Free",82,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",83,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",84,"Captive","Yes",0.254710078239441
+"Model2_without_species","Scale-Free",85,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",86,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",87,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",88,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",89,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",90,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",91,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",92,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",93,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",94,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",95,"Captive","Yes",0.109993547201157
+"Model2_without_species","Scale-Free",96,"Captive","No",0.148946285247803
+"Model2_without_species","Scale-Free",97,"Captive","No",0.0241859257221222
+"Model2_without_species","Scale-Free",98,"Captive","Yes",0.254710078239441
+"Model2_without_species","Scale-Free",99,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",100,"Captive","Yes",-0.100088708102703
+"Model2_without_species","Scale-Free",101,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",102,"Captive","No",0.00623399345204234
+"Model2_without_species","Scale-Free",103,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",104,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",105,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",106,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",107,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",108,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",109,"Captive","No",0.11452255398035
+"Model2_without_species","Scale-Free",110,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",111,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",112,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",113,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",114,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",115,"Captive","No",0.0241859257221222
+"Model2_without_species","Scale-Free",116,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",117,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",118,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",119,"Captive","Yes",0.254710078239441
+"Model2_without_species","Scale-Free",120,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",121,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",122,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",123,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",124,"Captive","Yes",0.254710078239441
+"Model2_without_species","Scale-Free",125,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",126,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",127,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",128,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",129,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",130,"Captive","Yes",0.254710078239441
+"Model2_without_species","Scale-Free",131,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",132,"Captive","No",0.0609608925879002
+"Model2_without_species","Scale-Free",133,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",134,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",135,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",136,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",137,"Captive","Yes",-0.100088708102703
+"Model2_without_species","Scale-Free",138,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",139,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",140,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",141,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",142,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",143,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",144,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",145,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",146,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",147,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",148,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",149,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",150,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",151,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",152,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",153,"Captive","Yes",0.105405673384666
+"Model2_without_species","Scale-Free",154,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",155,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",156,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",157,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",158,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",159,"Captive","Yes",-0.188745722174644
+"Model2_without_species","Scale-Free",160,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",161,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",162,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",163,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",164,"Captive","Yes",0.105405673384666
+"Model2_without_species","Scale-Free",165,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",166,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",167,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",168,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",169,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",170,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",171,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",172,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",173,"Captive","No",0.00623399345204234
+"Model2_without_species","Scale-Free",174,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",175,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",176,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",177,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",178,"Captive","Semi ranging",0.056954700499773
+"Model2_without_species","Scale-Free",179,"Captive","No",0.0241859257221222
+"Model2_without_species","Scale-Free",180,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",181,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",182,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",183,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",184,"Captive","Semi ranging",0.0141713842749596
+"Model2_without_species","Scale-Free",185,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",186,"Captive","No",0.00623399345204234
+"Model2_without_species","Scale-Free",187,"Captive","No",0.0436707772314548
+"Model2_without_species","Scale-Free",188,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",189,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",190,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",191,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",192,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",193,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",194,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",195,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",196,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",197,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",198,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",199,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",200,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",201,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",202,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",203,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",204,"Captive","No",0.0241859257221222
+"Model2_without_species","Scale-Free",205,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",206,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",207,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",208,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",209,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",210,"Captive","No",0.0238064415752888
+"Model2_without_species","Scale-Free",211,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",212,"Captive","No",0.128261119127274
+"Model2_without_species","Scale-Free",213,"Captive","Yes",0.105405673384666
+"Model2_without_species","Scale-Free",214,"Captive","Yes",-0.100088708102703
+"Model2_without_species","Scale-Free",215,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",216,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",217,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",218,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",219,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",220,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",221,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",222,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",223,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",224,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",225,"Captive","No",0.120392486453056
+"Model2_without_species","Scale-Free",226,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",227,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",228,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",229,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",230,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",231,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",232,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",233,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",234,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",235,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",236,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",237,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",238,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",239,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",240,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",241,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",242,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",243,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",244,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",245,"Captive","No",0.0238064415752888
+"Model2_without_species","Scale-Free",246,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",247,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",248,"Captive","Yes",0.254710078239441
+"Model2_without_species","Scale-Free",249,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",250,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",251,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",252,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",253,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",254,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",255,"Captive","No",0.120392486453056
+"Model2_without_species","Scale-Free",256,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",257,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",258,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",259,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",260,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",261,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",262,"Captive","No",0.00623399345204234
+"Model2_without_species","Scale-Free",263,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",264,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",265,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",266,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",267,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",268,"Captive","Yes",0.254710078239441
+"Model2_without_species","Scale-Free",269,"Captive","No",0.0241859257221222
+"Model2_without_species","Scale-Free",270,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",271,"Captive","No",-0.0311268530786037
+"Model2_without_species","Scale-Free",272,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",273,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",274,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",275,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",276,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",277,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",278,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",279,"Captive","No",0.205289214849472
+"Model2_without_species","Scale-Free",280,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",281,"Captive","No",0.103480502963066
+"Model2_without_species","Scale-Free",282,"Captive","No",0.191842719912529
+"Model2_without_species","Scale-Free",283,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",284,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",285,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",286,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",287,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",288,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",289,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",290,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",291,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",292,"Captive","Yes",0.105405673384666
+"Model2_without_species","Scale-Free",293,"Captive","No",0.120392486453056
+"Model2_without_species","Scale-Free",294,"Captive","Yes",0.105405673384666
+"Model2_without_species","Scale-Free",295,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",296,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",297,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",298,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",299,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",300,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",301,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",302,"Captive","No",0.0609608925879002
+"Model2_without_species","Scale-Free",303,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",304,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",305,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",306,"Captive","Yes",0.105405673384666
+"Model2_without_species","Scale-Free",307,"Captive","No",0.148946285247803
+"Model2_without_species","Scale-Free",308,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",309,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",310,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",311,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",312,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",313,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",314,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",315,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",316,"Captive","No",0.0609608925879002
+"Model2_without_species","Scale-Free",317,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",318,"Captive","No",0.120392486453056
+"Model2_without_species","Scale-Free",319,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",320,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",321,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",322,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",323,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",324,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",325,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",326,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",327,"Captive","No",-0.0311268530786037
+"Model2_without_species","Scale-Free",328,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",329,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",330,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",331,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",332,"Captive","No",0.0241859257221222
+"Model2_without_species","Scale-Free",333,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",334,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",335,"Captive","No",0.00623399345204234
+"Model2_without_species","Scale-Free",336,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",337,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",338,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",339,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",340,"Captive","No",0.0238064415752888
+"Model2_without_species","Scale-Free",341,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",342,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",343,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",344,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",345,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",346,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",347,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",348,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",349,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",350,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",351,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",352,"Captive","Yes",0.254710078239441
+"Model2_without_species","Scale-Free",353,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",354,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",355,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",356,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",357,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",358,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",359,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",360,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",361,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",362,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",363,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",364,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",365,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",366,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",367,"Captive","No",0.120392486453056
+"Model2_without_species","Scale-Free",368,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",369,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",370,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",371,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",372,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",373,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",374,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",375,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",376,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",377,"Captive","No",0.00623399345204234
+"Model2_without_species","Scale-Free",378,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",379,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",380,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",381,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",382,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",383,"Captive","No",0.0776316449046135
+"Model2_without_species","Scale-Free",384,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",385,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",386,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",387,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",388,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",389,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",390,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",391,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",392,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",393,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",394,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",395,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",396,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",397,"Captive","No",0.058821052312851
+"Model2_without_species","Scale-Free",398,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",399,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",400,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",401,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",402,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",403,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",404,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",405,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",406,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",407,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",408,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",409,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",410,"Captive","No",0.144506052136421
+"Model2_without_species","Scale-Free",411,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",412,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",413,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",414,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",415,"Captive","Yes",-0.100088708102703
+"Model2_without_species","Scale-Free",416,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",417,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",418,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",419,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",420,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",421,"Captive","No",0.134123653173447
+"Model2_without_species","Scale-Free",422,"Captive","No",0.0241859257221222
+"Model2_without_species","Scale-Free",423,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",424,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",425,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",426,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",427,"Captive","No",0.0241859257221222
+"Model2_without_species","Scale-Free",428,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",429,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",430,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",431,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",432,"Captive","No",0.205289214849472
+"Model2_without_species","Scale-Free",433,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",434,"Captive","No",0.0543840862810612
+"Model2_without_species","Scale-Free",435,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",436,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",437,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",438,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",439,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",440,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",441,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",442,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",443,"Captive","No",0.0414568968117237
+"Model2_without_species","Scale-Free",444,"Captive","Yes",0.0165236759930849
+"Model2_without_species","Scale-Free",445,"Captive","No",0.0490311086177826
+"Model2_without_species","Scale-Free",1,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",2,"Interaction type","Spatial proximity",-0.352210909128189
+"Model2_without_species","Scale-Free",3,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",4,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",5,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",6,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",7,"Interaction type","Physical contact",-0.210575148463249
+"Model2_without_species","Scale-Free",8,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",9,"Interaction type","Social projection bipartite",0.116890408098698
+"Model2_without_species","Scale-Free",10,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",11,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",12,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",13,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",14,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",15,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",16,"Interaction type","Group membership",-0.161284759640694
+"Model2_without_species","Scale-Free",17,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",18,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",19,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",20,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",21,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",22,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",23,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",24,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",25,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",26,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",27,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",28,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",29,"Interaction type","Social projection bipartite",0.116890408098698
+"Model2_without_species","Scale-Free",30,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",31,"Interaction type","Physical contact",-0.210575148463249
+"Model2_without_species","Scale-Free",32,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",33,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",34,"Interaction type","Spatial proximity",-0.297594308853149
+"Model2_without_species","Scale-Free",35,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",36,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",37,"Interaction type","Social projection bipartite",0.0378006100654602
+"Model2_without_species","Scale-Free",38,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",39,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",40,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",41,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",42,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",43,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",44,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",45,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",46,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",47,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",48,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",49,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",50,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",51,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",52,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",53,"Interaction type","Spatial proximity",0.220643624663353
+"Model2_without_species","Scale-Free",54,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",55,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",56,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",57,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",58,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",59,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",60,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",61,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",62,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",63,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",64,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",65,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",66,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",67,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",68,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",69,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",70,"Interaction type","Physical contact",-0.35552904009819
+"Model2_without_species","Scale-Free",71,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",72,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",73,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",74,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",75,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",76,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",77,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",78,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",79,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",80,"Interaction type","Spatial proximity",-0.504617869853973
+"Model2_without_species","Scale-Free",81,"Interaction type","Social projection bipartite",0.116890408098698
+"Model2_without_species","Scale-Free",82,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",83,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",84,"Interaction type","Spatial proximity",0.220643624663353
+"Model2_without_species","Scale-Free",85,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",86,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",87,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",88,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",89,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",90,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",91,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",92,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",93,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",94,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",95,"Interaction type","Physical contact",-0.209803774952888
+"Model2_without_species","Scale-Free",96,"Interaction type","Dominance",0.475382685661316
+"Model2_without_species","Scale-Free",97,"Interaction type","Spatial proximity",-0.504617869853973
+"Model2_without_species","Scale-Free",98,"Interaction type","Spatial proximity",0.220643624663353
+"Model2_without_species","Scale-Free",99,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",100,"Interaction type","Physical contact",-0.35552904009819
+"Model2_without_species","Scale-Free",101,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",102,"Interaction type","Social projection bipartite",0.0378006100654602
+"Model2_without_species","Scale-Free",103,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",104,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",105,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",106,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",107,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",108,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",109,"Interaction type","Group membership",-0.232305482029915
+"Model2_without_species","Scale-Free",110,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",111,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",112,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",113,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",114,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",115,"Interaction type","Spatial proximity",-0.504617869853973
+"Model2_without_species","Scale-Free",116,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",117,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",118,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",119,"Interaction type","Spatial proximity",0.220643624663353
+"Model2_without_species","Scale-Free",120,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",121,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",122,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",123,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",124,"Interaction type","Spatial proximity",0.220643624663353
+"Model2_without_species","Scale-Free",125,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",126,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",127,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",128,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",129,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",130,"Interaction type","Spatial proximity",0.220643624663353
+"Model2_without_species","Scale-Free",131,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",132,"Interaction type","Group membership",-0.359958112239838
+"Model2_without_species","Scale-Free",133,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",134,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",135,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",136,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",137,"Interaction type","Physical contact",-0.35552904009819
+"Model2_without_species","Scale-Free",138,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",139,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",140,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",141,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",142,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",143,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",144,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",145,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",146,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",147,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",148,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",149,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",150,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",151,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",152,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",153,"Interaction type","Physical contact",-0.210575148463249
+"Model2_without_species","Scale-Free",154,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",155,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",156,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",157,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",158,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",159,"Interaction type","Dominance",-0.608057856559753
+"Model2_without_species","Scale-Free",160,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",161,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",162,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",163,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",164,"Interaction type","Physical contact",-0.210575148463249
+"Model2_without_species","Scale-Free",165,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",166,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",167,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",168,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",169,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",170,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",171,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",172,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",173,"Interaction type","Social projection bipartite",0.0378006100654602
+"Model2_without_species","Scale-Free",174,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",175,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",176,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",177,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",178,"Interaction type","Dominance",0.286004304885864
+"Model2_without_species","Scale-Free",179,"Interaction type","Spatial proximity",-0.504617869853973
+"Model2_without_species","Scale-Free",180,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",181,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",182,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",183,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",184,"Interaction type","Dominance",-0.35396334528923
+"Model2_without_species","Scale-Free",185,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",186,"Interaction type","Social projection bipartite",0.0378006100654602
+"Model2_without_species","Scale-Free",187,"Interaction type","Social projection bipartite",0.0721934586763382
+"Model2_without_species","Scale-Free",188,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",189,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",190,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",191,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",192,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",193,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",194,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",195,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",196,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",197,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",198,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",199,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",200,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",201,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",202,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",203,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",204,"Interaction type","Spatial proximity",-0.504617869853973
+"Model2_without_species","Scale-Free",205,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",206,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",207,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",208,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",209,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",210,"Interaction type","Spatial proximity",-0.502293884754181
+"Model2_without_species","Scale-Free",211,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",212,"Interaction type","Group membership",-0.269931375980377
+"Model2_without_species","Scale-Free",213,"Interaction type","Physical contact",-0.210575148463249
+"Model2_without_species","Scale-Free",214,"Interaction type","Physical contact",-0.35552904009819
+"Model2_without_species","Scale-Free",215,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",216,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",217,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",218,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",219,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",220,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",221,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",222,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",223,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",224,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",225,"Interaction type","Social projection bipartite",0.116890408098698
+"Model2_without_species","Scale-Free",226,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",227,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",228,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",229,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",230,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",231,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",232,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",233,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",234,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",235,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",236,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",237,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",238,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",239,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",240,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",241,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",242,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",243,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",244,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",245,"Interaction type","Spatial proximity",-0.502293884754181
+"Model2_without_species","Scale-Free",246,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",247,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",248,"Interaction type","Spatial proximity",0.220643624663353
+"Model2_without_species","Scale-Free",249,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",250,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",251,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",252,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",253,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",254,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",255,"Interaction type","Social projection bipartite",0.116890408098698
+"Model2_without_species","Scale-Free",256,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",257,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",258,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",259,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",260,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",261,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",262,"Interaction type","Social projection bipartite",0.0378006100654602
+"Model2_without_species","Scale-Free",263,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",264,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",265,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",266,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",267,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",268,"Interaction type","Spatial proximity",0.220643624663353
+"Model2_without_species","Scale-Free",269,"Interaction type","Spatial proximity",-0.504617869853973
+"Model2_without_species","Scale-Free",270,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",271,"Interaction type","Spatial proximity",-0.203394249081612
+"Model2_without_species","Scale-Free",272,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",273,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",274,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",275,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",276,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",277,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",278,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",279,"Interaction type","Group membership",-0.160187259316444
+"Model2_without_species","Scale-Free",280,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",281,"Interaction type","Physical contact",-0.298797607421875
+"Model2_without_species","Scale-Free",282,"Interaction type","Group membership",-0.161284759640694
+"Model2_without_species","Scale-Free",283,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",284,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",285,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",286,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",287,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",288,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",289,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",290,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",291,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",292,"Interaction type","Physical contact",-0.210575148463249
+"Model2_without_species","Scale-Free",293,"Interaction type","Social projection bipartite",0.116890408098698
+"Model2_without_species","Scale-Free",294,"Interaction type","Physical contact",-0.210575148463249
+"Model2_without_species","Scale-Free",295,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",296,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",297,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",298,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",299,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",300,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",301,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",302,"Interaction type","Group membership",-0.359958112239838
+"Model2_without_species","Scale-Free",303,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",304,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",305,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",306,"Interaction type","Physical contact",-0.210575148463249
+"Model2_without_species","Scale-Free",307,"Interaction type","Dominance",0.475382685661316
+"Model2_without_species","Scale-Free",308,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",309,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",310,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",311,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",312,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",313,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",314,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",315,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",316,"Interaction type","Group membership",-0.359958112239838
+"Model2_without_species","Scale-Free",317,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",318,"Interaction type","Social projection bipartite",0.116890408098698
+"Model2_without_species","Scale-Free",319,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",320,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",321,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",322,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",323,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",324,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",325,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",326,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",327,"Interaction type","Spatial proximity",-0.203394249081612
+"Model2_without_species","Scale-Free",328,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",329,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",330,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",331,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",332,"Interaction type","Spatial proximity",-0.504617869853973
+"Model2_without_species","Scale-Free",333,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",334,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",335,"Interaction type","Social projection bipartite",0.0378006100654602
+"Model2_without_species","Scale-Free",336,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",337,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",338,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",339,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",340,"Interaction type","Spatial proximity",-0.502293884754181
+"Model2_without_species","Scale-Free",341,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",342,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",343,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",344,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",345,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",346,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",347,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",348,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",349,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",350,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",351,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",352,"Interaction type","Spatial proximity",0.220643624663353
+"Model2_without_species","Scale-Free",353,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",354,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",355,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",356,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",357,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",358,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",359,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",360,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",361,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",362,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",363,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",364,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",365,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",366,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",367,"Interaction type","Social projection bipartite",0.116890408098698
+"Model2_without_species","Scale-Free",368,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",369,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",370,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",371,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",372,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",373,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",374,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",375,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",376,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",377,"Interaction type","Social projection bipartite",0.0378006100654602
+"Model2_without_species","Scale-Free",378,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",379,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",380,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",381,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",382,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",383,"Interaction type","Social projection bipartite",0.119482234120369
+"Model2_without_species","Scale-Free",384,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",385,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",386,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",387,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",388,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",389,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",390,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",391,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",392,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",393,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",394,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",395,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",396,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",397,"Interaction type","Spatial proximity",-0.268238544464111
+"Model2_without_species","Scale-Free",398,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",399,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",400,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",401,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",402,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",403,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",404,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",405,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",406,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",407,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",408,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",409,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",410,"Interaction type","Grooming",0.35161691904068
+"Model2_without_species","Scale-Free",411,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",412,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",413,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",414,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",415,"Interaction type","Physical contact",-0.35552904009819
+"Model2_without_species","Scale-Free",416,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",417,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",418,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",419,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",420,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",421,"Interaction type","Dominance",-0.249918818473816
+"Model2_without_species","Scale-Free",422,"Interaction type","Spatial proximity",-0.504617869853973
+"Model2_without_species","Scale-Free",423,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",424,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",425,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",426,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",427,"Interaction type","Spatial proximity",-0.504617869853973
+"Model2_without_species","Scale-Free",428,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",429,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",430,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",431,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",432,"Interaction type","Group membership",-0.160187259316444
+"Model2_without_species","Scale-Free",433,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",434,"Interaction type","Spatial proximity",-0.091822050511837
+"Model2_without_species","Scale-Free",435,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",436,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",437,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",438,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",439,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",440,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",441,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",442,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",443,"Interaction type","Social projection bipartite",0.0849000662565231
+"Model2_without_species","Scale-Free",444,"Interaction type","Physical contact",-0.306599050760269
+"Model2_without_species","Scale-Free",445,"Interaction type","Spatial proximity",0.03250527754426
+"Model2_without_species","Scale-Free",1,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",2,"Data collection","survey scan",-0.290711998939514
+"Model2_without_species","Scale-Free",3,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",4,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",5,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",6,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",7,"Data collection","video",-0.291189819574356
+"Model2_without_species","Scale-Free",8,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",9,"Data collection","mark recapture",0.190202444791794
+"Model2_without_species","Scale-Free",10,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",11,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",12,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",13,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",14,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",15,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",16,"Data collection","survey scan",0.0819250643253326
+"Model2_without_species","Scale-Free",17,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",18,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",19,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",20,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",21,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",22,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",23,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",24,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",25,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",26,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",27,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",28,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",29,"Data collection","mark recapture",0.190202444791794
+"Model2_without_species","Scale-Free",30,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",31,"Data collection","video",-0.291189819574356
+"Model2_without_species","Scale-Free",32,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",33,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",34,"Data collection","survey scan",-0.706230998039246
+"Model2_without_species","Scale-Free",35,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",36,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",37,"Data collection","RFID",-0.263577550649643
+"Model2_without_species","Scale-Free",38,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",39,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",40,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",41,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",42,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",43,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",44,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",45,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",46,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",47,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",48,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",49,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",50,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",51,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",52,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",53,"Data collection","survey scan",-0.0133733870461583
+"Model2_without_species","Scale-Free",54,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",55,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",56,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",57,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",58,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",59,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",60,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",61,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",62,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",63,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",64,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",65,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",66,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",67,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",68,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",69,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",70,"Data collection","video",-0.5242800116539
+"Model2_without_species","Scale-Free",71,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",72,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",73,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",74,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",75,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",76,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",77,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",78,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",79,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",80,"Data collection","RFID",-0.41032013297081
+"Model2_without_species","Scale-Free",81,"Data collection","mark recapture",0.190202444791794
+"Model2_without_species","Scale-Free",82,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",83,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",84,"Data collection","survey scan",-0.0133733870461583
+"Model2_without_species","Scale-Free",85,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",86,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",87,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",88,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",89,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",90,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",91,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",92,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",93,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",94,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",95,"Data collection","video",-0.287993758916855
+"Model2_without_species","Scale-Free",96,"Data collection","survey scan",0.160295769572258
+"Model2_without_species","Scale-Free",97,"Data collection","RFID",-0.41032013297081
+"Model2_without_species","Scale-Free",98,"Data collection","survey scan",-0.0133733870461583
+"Model2_without_species","Scale-Free",99,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",100,"Data collection","video",-0.5242800116539
+"Model2_without_species","Scale-Free",101,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",102,"Data collection","RFID",-0.263577550649643
+"Model2_without_species","Scale-Free",103,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",104,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",105,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",106,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",107,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",108,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",109,"Data collection","survey scan",-0.235531777143478
+"Model2_without_species","Scale-Free",110,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",111,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",112,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",113,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",114,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",115,"Data collection","RFID",-0.41032013297081
+"Model2_without_species","Scale-Free",116,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",117,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",118,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",119,"Data collection","survey scan",-0.0133733870461583
+"Model2_without_species","Scale-Free",120,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",121,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",122,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",123,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",124,"Data collection","survey scan",-0.0133733870461583
+"Model2_without_species","Scale-Free",125,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",126,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",127,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",128,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",129,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",130,"Data collection","survey scan",-0.0133733870461583
+"Model2_without_species","Scale-Free",131,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",132,"Data collection","survey scan",-0.561040580272675
+"Model2_without_species","Scale-Free",133,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",134,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",135,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",136,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",137,"Data collection","video",-0.5242800116539
+"Model2_without_species","Scale-Free",138,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",139,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",140,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",141,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",142,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",143,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",144,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",145,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",146,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",147,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",148,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",149,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",150,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",151,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",152,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",153,"Data collection","video",-0.291189819574356
+"Model2_without_species","Scale-Free",154,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",155,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",156,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",157,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",158,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",159,"Data collection","direct observation",0.13165494799614
+"Model2_without_species","Scale-Free",160,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",161,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",162,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",163,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",164,"Data collection","video",-0.291189819574356
+"Model2_without_species","Scale-Free",165,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",166,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",167,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",168,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",169,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",170,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",171,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",172,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",173,"Data collection","RFID",-0.263577550649643
+"Model2_without_species","Scale-Free",174,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",175,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",176,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",177,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",178,"Data collection","survey scan",0.192812830209732
+"Model2_without_species","Scale-Free",179,"Data collection","RFID",-0.41032013297081
+"Model2_without_species","Scale-Free",180,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",181,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",182,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",183,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",184,"Data collection","focal sampling",-0.104676805436611
+"Model2_without_species","Scale-Free",185,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",186,"Data collection","RFID",-0.263577550649643
+"Model2_without_species","Scale-Free",187,"Data collection","RFID",-0.0587181523442268
+"Model2_without_species","Scale-Free",188,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",189,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",190,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",191,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",192,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",193,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",194,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",195,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",196,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",197,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",198,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",199,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",200,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",201,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",202,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",203,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",204,"Data collection","RFID",-0.41032013297081
+"Model2_without_species","Scale-Free",205,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",206,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",207,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",208,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",209,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",210,"Data collection","survey scan",-0.397595047950745
+"Model2_without_species","Scale-Free",211,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",212,"Data collection","survey scan",-0.0721183195710182
+"Model2_without_species","Scale-Free",213,"Data collection","video",-0.291189819574356
+"Model2_without_species","Scale-Free",214,"Data collection","video",-0.5242800116539
+"Model2_without_species","Scale-Free",215,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",216,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",217,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",218,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",219,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",220,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",221,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",222,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",223,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",224,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",225,"Data collection","mark recapture",0.190202444791794
+"Model2_without_species","Scale-Free",226,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",227,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",228,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",229,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",230,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",231,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",232,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",233,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",234,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",235,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",236,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",237,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",238,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",239,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",240,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",241,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",242,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",243,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",244,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",245,"Data collection","survey scan",-0.397595047950745
+"Model2_without_species","Scale-Free",246,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",247,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",248,"Data collection","survey scan",-0.0133733870461583
+"Model2_without_species","Scale-Free",249,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",250,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",251,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",252,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",253,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",254,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",255,"Data collection","mark recapture",0.190202444791794
+"Model2_without_species","Scale-Free",256,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",257,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",258,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",259,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",260,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",261,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",262,"Data collection","RFID",-0.263577550649643
+"Model2_without_species","Scale-Free",263,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",264,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",265,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",266,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",267,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",268,"Data collection","survey scan",-0.0133733870461583
+"Model2_without_species","Scale-Free",269,"Data collection","RFID",-0.41032013297081
+"Model2_without_species","Scale-Free",270,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",271,"Data collection","RFID",-0.527544140815735
+"Model2_without_species","Scale-Free",272,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",273,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",274,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",275,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",276,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",277,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",278,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",279,"Data collection","survey scan",0.122706152498722
+"Model2_without_species","Scale-Free",280,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",281,"Data collection","focal sampling",-0.00965388026088476
+"Model2_without_species","Scale-Free",282,"Data collection","survey scan",0.0819250643253326
+"Model2_without_species","Scale-Free",283,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",284,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",285,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",286,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",287,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",288,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",289,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",290,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",291,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",292,"Data collection","video",-0.291189819574356
+"Model2_without_species","Scale-Free",293,"Data collection","mark recapture",0.190202444791794
+"Model2_without_species","Scale-Free",294,"Data collection","video",-0.291189819574356
+"Model2_without_species","Scale-Free",295,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",296,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",297,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",298,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",299,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",300,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",301,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",302,"Data collection","survey scan",-0.561040580272675
+"Model2_without_species","Scale-Free",303,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",304,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",305,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",306,"Data collection","video",-0.291189819574356
+"Model2_without_species","Scale-Free",307,"Data collection","survey scan",0.160295769572258
+"Model2_without_species","Scale-Free",308,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",309,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",310,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",311,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",312,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",313,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",314,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",315,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",316,"Data collection","survey scan",-0.561040580272675
+"Model2_without_species","Scale-Free",317,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",318,"Data collection","mark recapture",0.190202444791794
+"Model2_without_species","Scale-Free",319,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",320,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",321,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",322,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",323,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",324,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",325,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",326,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",327,"Data collection","RFID",-0.527544140815735
+"Model2_without_species","Scale-Free",328,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",329,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",330,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",331,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",332,"Data collection","RFID",-0.41032013297081
+"Model2_without_species","Scale-Free",333,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",334,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",335,"Data collection","RFID",-0.263577550649643
+"Model2_without_species","Scale-Free",336,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",337,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",338,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",339,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",340,"Data collection","survey scan",-0.397595047950745
+"Model2_without_species","Scale-Free",341,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",342,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",343,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",344,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",345,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",346,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",347,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",348,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",349,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",350,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",351,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",352,"Data collection","survey scan",-0.0133733870461583
+"Model2_without_species","Scale-Free",353,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",354,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",355,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",356,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",357,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",358,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",359,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",360,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",361,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",362,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",363,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",364,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",365,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",366,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",367,"Data collection","mark recapture",0.190202444791794
+"Model2_without_species","Scale-Free",368,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",369,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",370,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",371,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",372,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",373,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",374,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",375,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",376,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",377,"Data collection","RFID",-0.263577550649643
+"Model2_without_species","Scale-Free",378,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",379,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",380,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",381,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",382,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",383,"Data collection","RFID",0.105477280914783
+"Model2_without_species","Scale-Free",384,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",385,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",386,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",387,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",388,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",389,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",390,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",391,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",392,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",393,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",394,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",395,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",396,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",397,"Data collection","logger",0.224659100174904
+"Model2_without_species","Scale-Free",398,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",399,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",400,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",401,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",402,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",403,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",404,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",405,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",406,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",407,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",408,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",409,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",410,"Data collection","focal sampling",0.202054873108864
+"Model2_without_species","Scale-Free",411,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",412,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",413,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",414,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",415,"Data collection","video",-0.5242800116539
+"Model2_without_species","Scale-Free",416,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",417,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",418,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",419,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",420,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",421,"Data collection","focal sampling",-0.100511707365513
+"Model2_without_species","Scale-Free",422,"Data collection","RFID",-0.41032013297081
+"Model2_without_species","Scale-Free",423,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",424,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",425,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",426,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",427,"Data collection","RFID",-0.41032013297081
+"Model2_without_species","Scale-Free",428,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",429,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",430,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",431,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",432,"Data collection","survey scan",0.122706152498722
+"Model2_without_species","Scale-Free",433,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",434,"Data collection","focal sampling",0.210046991705894
+"Model2_without_species","Scale-Free",435,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",436,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",437,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",438,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",439,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",440,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",441,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",442,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",443,"Data collection","mark recapture",0.212640345096588
+"Model2_without_species","Scale-Free",444,"Data collection","video",-0.436099708080292
+"Model2_without_species","Scale-Free",445,"Data collection","logger",0.414018601179123
+"Model2_without_species","Scale-Free",1,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",2,"Data duration (days)","594",-0.652098476886749
+"Model2_without_species","Scale-Free",3,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",4,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",5,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",6,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",7,"Data duration (days)","0.020833",0.86052542924881
+"Model2_without_species","Scale-Free",8,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",9,"Data duration (days)","300",0.17423802614212
+"Model2_without_species","Scale-Free",10,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",11,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",12,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",13,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",14,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",15,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",16,"Data duration (days)","90",0.385816514492035
+"Model2_without_species","Scale-Free",17,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",18,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",19,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",20,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",21,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",22,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",23,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",24,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",25,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",26,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",27,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",28,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",29,"Data duration (days)","300",0.17423802614212
+"Model2_without_species","Scale-Free",30,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",31,"Data duration (days)","0.020833",0.86052542924881
+"Model2_without_species","Scale-Free",32,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",33,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",34,"Data duration (days)","53.202856815371",-0.761354207992554
+"Model2_without_species","Scale-Free",35,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",36,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",37,"Data duration (days)","6",-0.414369106292725
+"Model2_without_species","Scale-Free",38,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",39,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",40,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",41,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",42,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",43,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",44,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",45,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",46,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",47,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",48,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",49,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",50,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",51,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",52,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",53,"Data duration (days)","12",-0.0848487317562103
+"Model2_without_species","Scale-Free",54,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",55,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",56,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",57,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",58,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",59,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",60,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",61,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",62,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",63,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",64,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",65,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",66,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",67,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",68,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",69,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",70,"Data duration (days)","41",-0.730269849300385
+"Model2_without_species","Scale-Free",71,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",72,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",73,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",74,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",75,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",76,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",77,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",78,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",79,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",80,"Data duration (days)","90",-0.279070407152176
+"Model2_without_species","Scale-Free",81,"Data duration (days)","300",0.17423802614212
+"Model2_without_species","Scale-Free",82,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",83,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",84,"Data duration (days)","12",-0.0848487317562103
+"Model2_without_species","Scale-Free",85,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",86,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",87,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",88,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",89,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",90,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",91,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",92,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",93,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",94,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",95,"Data duration (days)","0.1667",0.876291751861572
+"Model2_without_species","Scale-Free",96,"Data duration (days)","69",0.208228528499603
+"Model2_without_species","Scale-Free",97,"Data duration (days)","90",-0.279070407152176
+"Model2_without_species","Scale-Free",98,"Data duration (days)","12",-0.0848487317562103
+"Model2_without_species","Scale-Free",99,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",100,"Data duration (days)","41",-0.730269849300385
+"Model2_without_species","Scale-Free",101,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",102,"Data duration (days)","6",-0.414369106292725
+"Model2_without_species","Scale-Free",103,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",104,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",105,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",106,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",107,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",108,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",109,"Data duration (days)","90",0.105699591338634
+"Model2_without_species","Scale-Free",110,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",111,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",112,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",113,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",114,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",115,"Data duration (days)","90",-0.279070407152176
+"Model2_without_species","Scale-Free",116,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",117,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",118,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",119,"Data duration (days)","12",-0.0848487317562103
+"Model2_without_species","Scale-Free",120,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",121,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",122,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",123,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",124,"Data duration (days)","12",-0.0848487317562103
+"Model2_without_species","Scale-Free",125,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",126,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",127,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",128,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",129,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",130,"Data duration (days)","12",-0.0848487317562103
+"Model2_without_species","Scale-Free",131,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",132,"Data duration (days)","64",-0.761516869068146
+"Model2_without_species","Scale-Free",133,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",134,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",135,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",136,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",137,"Data duration (days)","41",-0.730269849300385
+"Model2_without_species","Scale-Free",138,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",139,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",140,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",141,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",142,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",143,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",144,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",145,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",146,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",147,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",148,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",149,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",150,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",151,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",152,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",153,"Data duration (days)","0.020833",0.86052542924881
+"Model2_without_species","Scale-Free",154,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",155,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",156,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",157,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",158,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",159,"Data duration (days)","11",-0.24361664056778
+"Model2_without_species","Scale-Free",160,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",161,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",162,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",163,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",164,"Data duration (days)","0.020833",0.86052542924881
+"Model2_without_species","Scale-Free",165,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",166,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",167,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",168,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",169,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",170,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",171,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",172,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",173,"Data duration (days)","6",-0.414369106292725
+"Model2_without_species","Scale-Free",174,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",175,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",176,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",177,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",178,"Data duration (days)","79.5507935236642",0.207120984792709
+"Model2_without_species","Scale-Free",179,"Data duration (days)","90",-0.279070407152176
+"Model2_without_species","Scale-Free",180,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",181,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",182,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",183,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",184,"Data duration (days)","450",-0.904327034950256
+"Model2_without_species","Scale-Free",185,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",186,"Data duration (days)","6",-0.414369106292725
+"Model2_without_species","Scale-Free",187,"Data duration (days)","365",-0.543053150177002
+"Model2_without_species","Scale-Free",188,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",189,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",190,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",191,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",192,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",193,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",194,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",195,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",196,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",197,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",198,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",199,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",200,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",201,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",202,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",203,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",204,"Data duration (days)","90",-0.279070407152176
+"Model2_without_species","Scale-Free",205,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",206,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",207,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",208,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",209,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",210,"Data duration (days)","124",-0.255701869726181
+"Model2_without_species","Scale-Free",211,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",212,"Data duration (days)","180",0.387946099042892
+"Model2_without_species","Scale-Free",213,"Data duration (days)","0.020833",0.86052542924881
+"Model2_without_species","Scale-Free",214,"Data duration (days)","41",-0.730269849300385
+"Model2_without_species","Scale-Free",215,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",216,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",217,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",218,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",219,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",220,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",221,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",222,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",223,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",224,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",225,"Data duration (days)","300",0.17423802614212
+"Model2_without_species","Scale-Free",226,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",227,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",228,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",229,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",230,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",231,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",232,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",233,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",234,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",235,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",236,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",237,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",238,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",239,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",240,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",241,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",242,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",243,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",244,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",245,"Data duration (days)","124",-0.255701869726181
+"Model2_without_species","Scale-Free",246,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",247,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",248,"Data duration (days)","12",-0.0848487317562103
+"Model2_without_species","Scale-Free",249,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",250,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",251,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",252,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",253,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",254,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",255,"Data duration (days)","300",0.17423802614212
+"Model2_without_species","Scale-Free",256,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",257,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",258,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",259,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",260,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",261,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",262,"Data duration (days)","6",-0.414369106292725
+"Model2_without_species","Scale-Free",263,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",264,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",265,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",266,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",267,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",268,"Data duration (days)","12",-0.0848487317562103
+"Model2_without_species","Scale-Free",269,"Data duration (days)","90",-0.279070407152176
+"Model2_without_species","Scale-Free",270,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",271,"Data duration (days)","12",-0.173457860946655
+"Model2_without_species","Scale-Free",272,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",273,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",274,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",275,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",276,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",277,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",278,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",279,"Data duration (days)","120",0.39387172460556
+"Model2_without_species","Scale-Free",280,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",281,"Data duration (days)","730",-0.927689731121063
+"Model2_without_species","Scale-Free",282,"Data duration (days)","90",0.385816514492035
+"Model2_without_species","Scale-Free",283,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",284,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",285,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",286,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",287,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",288,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",289,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",290,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",291,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",292,"Data duration (days)","0.020833",0.86052542924881
+"Model2_without_species","Scale-Free",293,"Data duration (days)","300",0.17423802614212
+"Model2_without_species","Scale-Free",294,"Data duration (days)","0.020833",0.86052542924881
+"Model2_without_species","Scale-Free",295,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",296,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",297,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",298,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",299,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",300,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",301,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",302,"Data duration (days)","64",-0.761516869068146
+"Model2_without_species","Scale-Free",303,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",304,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",305,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",306,"Data duration (days)","0.020833",0.86052542924881
+"Model2_without_species","Scale-Free",307,"Data duration (days)","69",0.208228528499603
+"Model2_without_species","Scale-Free",308,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",309,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",310,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",311,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",312,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",313,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",314,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",315,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",316,"Data duration (days)","64",-0.761516869068146
+"Model2_without_species","Scale-Free",317,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",318,"Data duration (days)","300",0.17423802614212
+"Model2_without_species","Scale-Free",319,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",320,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",321,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",322,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",323,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",324,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",325,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",326,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",327,"Data duration (days)","12",-0.173457860946655
+"Model2_without_species","Scale-Free",328,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",329,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",330,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",331,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",332,"Data duration (days)","90",-0.279070407152176
+"Model2_without_species","Scale-Free",333,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",334,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",335,"Data duration (days)","6",-0.414369106292725
+"Model2_without_species","Scale-Free",336,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",337,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",338,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",339,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",340,"Data duration (days)","124",-0.255701869726181
+"Model2_without_species","Scale-Free",341,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",342,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",343,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",344,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",345,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",346,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",347,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",348,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",349,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",350,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",351,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",352,"Data duration (days)","12",-0.0848487317562103
+"Model2_without_species","Scale-Free",353,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",354,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",355,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",356,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",357,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",358,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",359,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",360,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",361,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",362,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",363,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",364,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",365,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",366,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",367,"Data duration (days)","300",0.17423802614212
+"Model2_without_species","Scale-Free",368,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",369,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",370,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",371,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",372,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",373,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",374,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",375,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",376,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",377,"Data duration (days)","6",-0.414369106292725
+"Model2_without_species","Scale-Free",378,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",379,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",380,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",381,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",382,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",383,"Data duration (days)","284",0.212354317307472
+"Model2_without_species","Scale-Free",384,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",385,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",386,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",387,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",388,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",389,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",390,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",391,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",392,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",393,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",394,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",395,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",396,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",397,"Data duration (days)","120",-0.453537791967392
+"Model2_without_species","Scale-Free",398,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",399,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",400,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",401,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",402,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",403,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",404,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",405,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",406,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",407,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",408,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",409,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",410,"Data duration (days)","90",0.132959797978401
+"Model2_without_species","Scale-Free",411,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",412,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",413,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",414,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",415,"Data duration (days)","41",-0.730269849300385
+"Model2_without_species","Scale-Free",416,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",417,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",418,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",419,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",420,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",421,"Data duration (days)","206",-0.259939908981323
+"Model2_without_species","Scale-Free",422,"Data duration (days)","90",-0.279070407152176
+"Model2_without_species","Scale-Free",423,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",424,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",425,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",426,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",427,"Data duration (days)","90",-0.279070407152176
+"Model2_without_species","Scale-Free",428,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",429,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",430,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",431,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",432,"Data duration (days)","120",0.39387172460556
+"Model2_without_species","Scale-Free",433,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",434,"Data duration (days)","30",-0.248743414878845
+"Model2_without_species","Scale-Free",435,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",436,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",437,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",438,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",439,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",440,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",441,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",442,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",443,"Data duration (days)","6",-0.00185216474346817
+"Model2_without_species","Scale-Free",444,"Data duration (days)","1",-0.232056319713593
+"Model2_without_species","Scale-Free",445,"Data duration (days)","7",0.187270820140839
+"Model2_without_species","Scale-Free",1,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",2,"Class","Mammalia",-0.27679967880249
+"Model2_without_species","Scale-Free",3,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",4,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",5,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",6,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",7,"Class","Insecta",0.132098108530045
+"Model2_without_species","Scale-Free",8,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",9,"Class","Aves",0.323318362236023
+"Model2_without_species","Scale-Free",10,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",11,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",12,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",13,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",14,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",15,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",16,"Class","Aves",0.467099606990814
+"Model2_without_species","Scale-Free",17,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",18,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",19,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",20,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",21,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",22,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",23,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",24,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",25,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",26,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",27,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",28,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",29,"Class","Aves",0.323318362236023
+"Model2_without_species","Scale-Free",30,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",31,"Class","Insecta",0.132098108530045
+"Model2_without_species","Scale-Free",32,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",33,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",34,"Class","Mammalia",-0.179705113172531
+"Model2_without_species","Scale-Free",35,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",36,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",37,"Class","Aves",-0.04069609567523
+"Model2_without_species","Scale-Free",38,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",39,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",40,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",41,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",42,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",43,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",44,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",45,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",46,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",47,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",48,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",49,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",50,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",51,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",52,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",53,"Class","Insecta",0.31466218829155
+"Model2_without_species","Scale-Free",54,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",55,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",56,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",57,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",58,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",59,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",60,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",61,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",62,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",63,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",64,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",65,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",66,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",67,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",68,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",69,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",70,"Class","Insecta",0.00705936830490828
+"Model2_without_species","Scale-Free",71,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",72,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",73,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",74,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",75,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",76,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",77,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",78,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",79,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",80,"Class","Mammalia",-0.246166989207268
+"Model2_without_species","Scale-Free",81,"Class","Aves",0.323318362236023
+"Model2_without_species","Scale-Free",82,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",83,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",84,"Class","Insecta",0.31466218829155
+"Model2_without_species","Scale-Free",85,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",86,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",87,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",88,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",89,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",90,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",91,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",92,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",93,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",94,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",95,"Class","Insecta",0.134252533316612
+"Model2_without_species","Scale-Free",96,"Class","Mammalia",0.000855060701724142
+"Model2_without_species","Scale-Free",97,"Class","Mammalia",-0.246166989207268
+"Model2_without_species","Scale-Free",98,"Class","Insecta",0.31466218829155
+"Model2_without_species","Scale-Free",99,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",100,"Class","Insecta",0.00705936830490828
+"Model2_without_species","Scale-Free",101,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",102,"Class","Aves",-0.04069609567523
+"Model2_without_species","Scale-Free",103,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",104,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",105,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",106,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",107,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",108,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",109,"Class","Mammalia",-0.205843731760979
+"Model2_without_species","Scale-Free",110,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",111,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",112,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",113,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",114,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",115,"Class","Mammalia",-0.246166989207268
+"Model2_without_species","Scale-Free",116,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",117,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",118,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",119,"Class","Insecta",0.31466218829155
+"Model2_without_species","Scale-Free",120,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",121,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",122,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",123,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",124,"Class","Insecta",0.31466218829155
+"Model2_without_species","Scale-Free",125,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",126,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",127,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",128,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",129,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",130,"Class","Insecta",0.31466218829155
+"Model2_without_species","Scale-Free",131,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",132,"Class","Mammalia",-0.140960395336151
+"Model2_without_species","Scale-Free",133,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",134,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",135,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",136,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",137,"Class","Insecta",0.00705936830490828
+"Model2_without_species","Scale-Free",138,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",139,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",140,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",141,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",142,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",143,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",144,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",145,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",146,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",147,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",148,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",149,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",150,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",151,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",152,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",153,"Class","Insecta",0.132098108530045
+"Model2_without_species","Scale-Free",154,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",155,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",156,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",157,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",158,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",159,"Class","Aves",-0.169543489813805
+"Model2_without_species","Scale-Free",160,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",161,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",162,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",163,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",164,"Class","Insecta",0.132098108530045
+"Model2_without_species","Scale-Free",165,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",166,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",167,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",168,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",169,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",170,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",171,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",172,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",173,"Class","Aves",-0.04069609567523
+"Model2_without_species","Scale-Free",174,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",175,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",176,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",177,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",178,"Class","Mammalia",-0.0379913523793221
+"Model2_without_species","Scale-Free",179,"Class","Mammalia",-0.246166989207268
+"Model2_without_species","Scale-Free",180,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",181,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",182,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",183,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",184,"Class","Mammalia",-0.0812103152275085
+"Model2_without_species","Scale-Free",185,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",186,"Class","Aves",-0.04069609567523
+"Model2_without_species","Scale-Free",187,"Class","Mammalia",-0.237363994121552
+"Model2_without_species","Scale-Free",188,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",189,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",190,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",191,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",192,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",193,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",194,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",195,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",196,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",197,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",198,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",199,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",200,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",201,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",202,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",203,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",204,"Class","Mammalia",-0.246166989207268
+"Model2_without_species","Scale-Free",205,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",206,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",207,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",208,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",209,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",210,"Class","Mammalia",-0.271743595600128
+"Model2_without_species","Scale-Free",211,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",212,"Class","Mammalia",-0.22195827960968
+"Model2_without_species","Scale-Free",213,"Class","Insecta",0.132098108530045
+"Model2_without_species","Scale-Free",214,"Class","Insecta",0.00705936830490828
+"Model2_without_species","Scale-Free",215,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",216,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",217,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",218,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",219,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",220,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",221,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",222,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",223,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",224,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",225,"Class","Aves",0.323318362236023
+"Model2_without_species","Scale-Free",226,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",227,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",228,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",229,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",230,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",231,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",232,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",233,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",234,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",235,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",236,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",237,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",238,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",239,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",240,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",241,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",242,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",243,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",244,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",245,"Class","Mammalia",-0.271743595600128
+"Model2_without_species","Scale-Free",246,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",247,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",248,"Class","Insecta",0.31466218829155
+"Model2_without_species","Scale-Free",249,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",250,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",251,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",252,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",253,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",254,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",255,"Class","Aves",0.323318362236023
+"Model2_without_species","Scale-Free",256,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",257,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",258,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",259,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",260,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",261,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",262,"Class","Aves",-0.04069609567523
+"Model2_without_species","Scale-Free",263,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",264,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",265,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",266,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",267,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",268,"Class","Insecta",0.31466218829155
+"Model2_without_species","Scale-Free",269,"Class","Mammalia",-0.246166989207268
+"Model2_without_species","Scale-Free",270,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",271,"Class","Mammalia",-0.161453053355217
+"Model2_without_species","Scale-Free",272,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",273,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",274,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",275,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",276,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",277,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",278,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",279,"Class","Aves",0.559539794921875
+"Model2_without_species","Scale-Free",280,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",281,"Class","Mammalia",-0.152040913701057
+"Model2_without_species","Scale-Free",282,"Class","Aves",0.467099606990814
+"Model2_without_species","Scale-Free",283,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",284,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",285,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",286,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",287,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",288,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",289,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",290,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",291,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",292,"Class","Insecta",0.132098108530045
+"Model2_without_species","Scale-Free",293,"Class","Aves",0.323318362236023
+"Model2_without_species","Scale-Free",294,"Class","Insecta",0.132098108530045
+"Model2_without_species","Scale-Free",295,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",296,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",297,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",298,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",299,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",300,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",301,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",302,"Class","Mammalia",-0.140960395336151
+"Model2_without_species","Scale-Free",303,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",304,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",305,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",306,"Class","Insecta",0.132098108530045
+"Model2_without_species","Scale-Free",307,"Class","Mammalia",0.000855060701724142
+"Model2_without_species","Scale-Free",308,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",309,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",310,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",311,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",312,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",313,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",314,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",315,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",316,"Class","Mammalia",-0.140960395336151
+"Model2_without_species","Scale-Free",317,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",318,"Class","Aves",0.323318362236023
+"Model2_without_species","Scale-Free",319,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",320,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",321,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",322,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",323,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",324,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",325,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",326,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",327,"Class","Mammalia",-0.161453053355217
+"Model2_without_species","Scale-Free",328,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",329,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",330,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",331,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",332,"Class","Mammalia",-0.246166989207268
+"Model2_without_species","Scale-Free",333,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",334,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",335,"Class","Aves",-0.04069609567523
+"Model2_without_species","Scale-Free",336,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",337,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",338,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",339,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",340,"Class","Mammalia",-0.271743595600128
+"Model2_without_species","Scale-Free",341,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",342,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",343,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",344,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",345,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",346,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",347,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",348,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",349,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",350,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",351,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",352,"Class","Insecta",0.31466218829155
+"Model2_without_species","Scale-Free",353,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",354,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",355,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",356,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",357,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",358,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",359,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",360,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",361,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",362,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",363,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",364,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",365,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",366,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",367,"Class","Aves",0.323318362236023
+"Model2_without_species","Scale-Free",368,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",369,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",370,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",371,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",372,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",373,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",374,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",375,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",376,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",377,"Class","Aves",-0.04069609567523
+"Model2_without_species","Scale-Free",378,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",379,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",380,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",381,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",382,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",383,"Class","Reptilia",0.165623843669891
+"Model2_without_species","Scale-Free",384,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",385,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",386,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",387,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",388,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",389,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",390,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",391,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",392,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",393,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",394,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",395,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",396,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",397,"Class","Reptilia",0.0351895280182362
+"Model2_without_species","Scale-Free",398,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",399,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",400,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",401,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",402,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",403,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",404,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",405,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",406,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",407,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",408,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",409,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",410,"Class","Mammalia",-0.00983998738229275
+"Model2_without_species","Scale-Free",411,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",412,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",413,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",414,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",415,"Class","Insecta",0.00705936830490828
+"Model2_without_species","Scale-Free",416,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",417,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",418,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",419,"Class","Mammalia",-0.00656953221186996
+"Model2_without_species","Scale-Free",420,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",421,"Class","Mammalia",-0.07951270788908
+"Model2_without_species","Scale-Free",422,"Class","Mammalia",-0.246166989207268
+"Model2_without_species","Scale-Free",423,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",424,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",425,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",426,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",427,"Class","Mammalia",-0.246166989207268
+"Model2_without_species","Scale-Free",428,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",429,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",430,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",431,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",432,"Class","Aves",0.559539794921875
+"Model2_without_species","Scale-Free",433,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",434,"Class","Mammalia",-0.0295605082064867
+"Model2_without_species","Scale-Free",435,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",436,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",437,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",438,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",439,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",440,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",441,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",442,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",443,"Class","Mammalia",-0.00391182396560907
+"Model2_without_species","Scale-Free",444,"Class","Insecta",0.0469539649784565
+"Model2_without_species","Scale-Free",445,"Class","Mammalia",-0.00656953221186996
